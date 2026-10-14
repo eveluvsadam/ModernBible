@@ -1,0 +1,5088 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Genesis",
+      "abbreviation": "Gen",
+      "testament": "OT",
+      "chapterCount": 50
+    },
+    {
+      "id": 2,
+      "name": "Exodus",
+      "abbreviation": "Exo",
+      "testament": "OT",
+      "chapterCount": 40
+    },
+    {
+      "id": 3,
+      "name": "Leviticus",
+      "abbreviation": "Lev",
+      "testament": "OT",
+      "chapterCount": 27
+    },
+    {
+      "id": 4,
+      "name": "Numbers",
+      "abbreviation": "Num",
+      "testament": "OT",
+      "chapterCount": 36
+    },
+    {
+      "id": 5,
+      "name": "Deuteronomy",
+      "abbreviation": "Deu",
+      "testament": "OT",
+      "chapterCount": 34
+    },
+    {
+      "id": 6,
+      "name": "Joshua",
+      "abbreviation": "Jos",
+      "testament": "OT",
+      "chapterCount": 24
+    },
+    {
+      "id": 7,
+      "name": "Judges",
+      "abbreviation": "Jdg",
+      "testament": "OT",
+      "chapterCount": 21
+    },
+    {
+      "id": 8,
+      "name": "Ruth",
+      "abbreviation": "Rut",
+      "testament": "OT",
+      "chapterCount": 4
+    },
+    {
+      "id": 9,
+      "name": "1 Samuel",
+      "abbreviation": "1Sa",
+      "testament": "OT",
+      "chapterCount": 31
+    },
+    {
+      "id": 10,
+      "name": "2 Samuel",
+      "abbreviation": "2Sa",
+      "testament": "OT",
+      "chapterCount": 24
+    },
+    {
+      "id": 11,
+      "name": "1 Kings",
+      "abbreviation": "1Ki",
+      "testament": "OT",
+      "chapterCount": 22
+    },
+    {
+      "id": 12,
+      "name": "2 Kings",
+      "abbreviation": "2Ki",
+      "testament": "OT",
+      "chapterCount": 25
+    },
+    {
+      "id": 13,
+      "name": "1 Chronicles",
+      "abbreviation": "1Ch",
+      "testament": "OT",
+      "chapterCount": 29
+    },
+    {
+      "id": 14,
+      "name": "2 Chronicles",
+      "abbreviation": "2Ch",
+      "testament": "OT",
+      "chapterCount": 36
+    },
+    {
+      "id": 15,
+      "name": "Ezra",
+      "abbreviation": "Ezr",
+      "testament": "OT",
+      "chapterCount": 10
+    },
+    {
+      "id": 16,
+      "name": "Nehemiah",
+      "abbreviation": "Neh",
+      "testament": "OT",
+      "chapterCount": 13
+    },
+    {
+      "id": 17,
+      "name": "Esther",
+      "abbreviation": "Est",
+      "testament": "OT",
+      "chapterCount": 10
+    },
+    {
+      "id": 18,
+      "name": "Job",
+      "abbreviation": "Job",
+      "testament": "OT",
+      "chapterCount": 42
+    },
+    {
+      "id": 19,
+      "name": "Psalms",
+      "abbreviation": "Psa",
+      "testament": "OT",
+      "chapterCount": 150
+    },
+    {
+      "id": 20,
+      "name": "Proverbs",
+      "abbreviation": "Pro",
+      "testament": "OT",
+      "chapterCount": 31
+    },
+    {
+      "id": 21,
+      "name": "Ecclesiastes",
+      "abbreviation": "Ecc",
+      "testament": "OT",
+      "chapterCount": 12
+    },
+    {
+      "id": 22,
+      "name": "Song of Solomon",
+      "abbreviation": "Sng",
+      "testament": "OT",
+      "chapterCount": 8
+    },
+    {
+      "id": 23,
+      "name": "Isaiah",
+      "abbreviation": "Isa",
+      "testament": "OT",
+      "chapterCount": 66
+    },
+    {
+      "id": 24,
+      "name": "Jeremiah",
+      "abbreviation": "Jer",
+      "testament": "OT",
+      "chapterCount": 52
+    },
+    {
+      "id": 25,
+      "name": "Lamentations",
+      "abbreviation": "Lam",
+      "testament": "OT",
+      "chapterCount": 5
+    },
+    {
+      "id": 26,
+      "name": "Ezekiel",
+      "abbreviation": "Eze",
+      "testament": "OT",
+      "chapterCount": 48
+    },
+    {
+      "id": 27,
+      "name": "Daniel",
+      "abbreviation": "Dan",
+      "testament": "OT",
+      "chapterCount": 12
+    },
+    {
+      "id": 28,
+      "name": "Hosea",
+      "abbreviation": "Hos",
+      "testament": "OT",
+      "chapterCount": 14
+    },
+    {
+      "id": 29,
+      "name": "Joel",
+      "abbreviation": "Joe",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 30,
+      "name": "Amos",
+      "abbreviation": "Amo",
+      "testament": "OT",
+      "chapterCount": 9
+    },
+    {
+      "id": 31,
+      "name": "Obadiah",
+      "abbreviation": "Oba",
+      "testament": "OT",
+      "chapterCount": 1
+    },
+    {
+      "id": 32,
+      "name": "Jonah",
+      "abbreviation": "Jon",
+      "testament": "OT",
+      "chapterCount": 4
+    },
+    {
+      "id": 33,
+      "name": "Micah",
+      "abbreviation": "Mic",
+      "testament": "OT",
+      "chapterCount": 7
+    },
+    {
+      "id": 34,
+      "name": "Nahum",
+      "abbreviation": "Nah",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 35,
+      "name": "Habakkuk",
+      "abbreviation": "Hab",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 36,
+      "name": "Zephaniah",
+      "abbreviation": "Zep",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 37,
+      "name": "Haggai",
+      "abbreviation": "Hag",
+      "testament": "OT",
+      "chapterCount": 2
+    },
+    {
+      "id": 38,
+      "name": "Zechariah",
+      "abbreviation": "Zec",
+      "testament": "OT",
+      "chapterCount": 14
+    },
+    {
+      "id": 39,
+      "name": "Malachi",
+      "abbreviation": "Mal",
+      "testament": "OT",
+      "chapterCount": 4
+    },
+    {
+      "id": 40,
+      "name": "Matthew",
+      "abbreviation": "Mat",
+      "testament": "NT",
+      "chapterCount": 28
+    },
+    {
+      "id": 41,
+      "name": "Mark",
+      "abbreviation": "Mrk",
+      "testament": "NT",
+      "chapterCount": 16
+    },
+    {
+      "id": 42,
+      "name": "Luke",
+      "abbreviation": "Luk",
+      "testament": "NT",
+      "chapterCount": 24
+    },
+    {
+      "id": 43,
+      "name": "John",
+      "abbreviation": "Jhn",
+      "testament": "NT",
+      "chapterCount": 21
+    },
+    {
+      "id": 44,
+      "name": "Acts",
+      "abbreviation": "Act",
+      "testament": "NT",
+      "chapterCount": 28
+    },
+    {
+      "id": 45,
+      "name": "Romans",
+      "abbreviation": "Rom",
+      "testament": "NT",
+      "chapterCount": 16
+    },
+    {
+      "id": 46,
+      "name": "1 Corinthians",
+      "abbreviation": "1Co",
+      "testament": "NT",
+      "chapterCount": 16
+    },
+    {
+      "id": 47,
+      "name": "2 Corinthians",
+      "abbreviation": "2Co",
+      "testament": "NT",
+      "chapterCount": 13
+    },
+    {
+      "id": 48,
+      "name": "Galatians",
+      "abbreviation": "Gal",
+      "testament": "NT",
+      "chapterCount": 6
+    },
+    {
+      "id": 49,
+      "name": "Ephesians",
+      "abbreviation": "Eph",
+      "testament": "NT",
+      "chapterCount": 6
+    },
+    {
+      "id": 50,
+      "name": "Philippians",
+      "abbreviation": "Php",
+      "testament": "NT",
+      "chapterCount": 4
+    },
+    {
+      "id": 51,
+      "name": "Colossians",
+      "abbreviation": "Col",
+      "testament": "NT",
+      "chapterCount": 4
+    },
+    {
+      "id": 52,
+      "name": "1 Thessalonians",
+      "abbreviation": "1Th",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 53,
+      "name": "2 Thessalonians",
+      "abbreviation": "2Th",
+      "testament": "NT",
+      "chapterCount": 3
+    },
+    {
+      "id": 54,
+      "name": "1 Timothy",
+      "abbreviation": "1Ti",
+      "testament": "NT",
+      "chapterCount": 6
+    },
+    {
+      "id": 55,
+      "name": "2 Timothy",
+      "abbreviation": "2Ti",
+      "testament": "NT",
+      "chapterCount": 4
+    },
+    {
+      "id": 56,
+      "name": "Titus",
+      "abbreviation": "Tit",
+      "testament": "NT",
+      "chapterCount": 3
+    },
+    {
+      "id": 57,
+      "name": "Philemon",
+      "abbreviation": "Phm",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 58,
+      "name": "Hebrews",
+      "abbreviation": "Heb",
+      "testament": "NT",
+      "chapterCount": 13
+    },
+    {
+      "id": 59,
+      "name": "James",
+      "abbreviation": "Jas",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 60,
+      "name": "1 Peter",
+      "abbreviation": "1Pe",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 61,
+      "name": "2 Peter",
+      "abbreviation": "2Pe",
+      "testament": "NT",
+      "chapterCount": 3
+    },
+    {
+      "id": 62,
+      "name": "1 John",
+      "abbreviation": "1Jn",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 63,
+      "name": "2 John",
+      "abbreviation": "2Jn",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 64,
+      "name": "3 John",
+      "abbreviation": "3Jn",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 65,
+      "name": "Jude",
+      "abbreviation": "Jud",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 66,
+      "name": "Revelation",
+      "abbreviation": "Rev",
+      "testament": "NT",
+      "chapterCount": 22
+    }
+  ],
+  "verses": [
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 1,
+      "text": "In the beginning God created the heaven and the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 2,
+      "text": "And the earth was without form, and void; and darkness was upon the face of the deep. And the Spirit of God moved upon the face of the waters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 3,
+      "text": "And God said, Let there be light: and there was light."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 4,
+      "text": "And God saw the light, that it was good: and God divided the light from the darkness."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 5,
+      "text": "And God called the light Day, and the darkness he called Night. And the evening and the morning were the first day."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 6,
+      "text": "And God said, Let there be a firmament in the midst of the waters, and let it divide the waters from the waters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 7,
+      "text": "And God made the firmament, and divided the waters which were under the firmament from the waters which were above the firmament: and it was so."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 8,
+      "text": "And God called the firmament Heaven. And the evening and the morning were the second day."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 9,
+      "text": "And God said, Let the waters under the heaven be gathered together unto one place, and let the dry land appear: and it was so."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 10,
+      "text": "And God called the dry land Earth; and the gathering together of the waters called he Seas: and God saw that it was good."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 11,
+      "text": "And God said, Let the earth bring forth grass, the herb yielding seed, and the fruit tree yielding fruit after his kind, whose seed is in itself, upon the earth: and it was so."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 12,
+      "text": "And the earth brought forth grass, and herb yielding seed after his kind, and the tree yielding fruit, whose seed was in itself, after his kind: and God saw that it was good."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 13,
+      "text": "And the evening and the morning were the third day."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 14,
+      "text": "And God said, Let there be lights in the firmament of the heaven to divide the day from the night; and let them be for signs, and for seasons, and for days, and years:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 15,
+      "text": "And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 16,
+      "text": "And God made two great lights; the greater light to rule the day, and the lesser light to rule the night: he made the stars also."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 17,
+      "text": "And God set them in the firmament of the heaven to give light upon the earth,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 18,
+      "text": "And to rule over the day and over the night, and to divide the light from the darkness: and God saw that it was good."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 19,
+      "text": "And the evening and the morning were the fourth day."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 20,
+      "text": "And God said, Let the waters bring forth abundantly the moving creature that hath life, and fowl that may fly above the earth in the open firmament of heaven."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 21,
+      "text": "And God created great whales, and every living creature that moveth, which the waters brought forth abundantly, after their kind, and every winged fowl after his kind: and God saw that it was good."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 22,
+      "text": "And God blessed them, saying, Be fruitful, and multiply, and fill the waters in the seas, and let fowl multiply in the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 23,
+      "text": "And the evening and the morning were the fifth day."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 24,
+      "text": "And God said, Let the earth bring forth the living creature after his kind, cattle, and creeping thing, and beast of the earth after his kind: and it was so."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 25,
+      "text": "And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind: and God saw that it was good."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 26,
+      "text": "And God said, Let us make man in our image, after our likeness: and let them have dominion over the fish of the sea, and over the fowl of the air, and over the cattle, and over all the earth, and over every creeping thing that creepeth upon the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 27,
+      "text": "So God created man in his own image, in the image of God created he him; male and female created he them."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 28,
+      "text": "And God blessed them, and God said unto them, Be fruitful, and multiply, and replenish the earth, and subdue it: and have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 29,
+      "text": "And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 30,
+      "text": "And to every beast of the earth, and to every fowl of the air, and to every thing that creepeth upon the earth, wherein there is life, I have given every green herb for meat: and it was so."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 31,
+      "text": "And God saw every thing that he had made, and, behold, it was very good. And the evening and the morning were the sixth day."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 1,
+      "text": "Thus the heavens and the earth were finished, and all the host of them."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 2,
+      "text": "And on the seventh day God ended his work which he had made; and he rested on the seventh day from all his work which he had made."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 3,
+      "text": "And God blessed the seventh day, and sanctified it: because that in it he had rested from all his work which God created and made."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 4,
+      "text": "These are the generations of the heavens and of the earth when they were created, in the day that the LORD God made the earth and the heavens,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 5,
+      "text": "And every plant of the field before it was in the earth, and every herb of the field before it grew: for the LORD God had not caused it to rain upon the earth, and there was not a man to till the ground."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 6,
+      "text": "But there went up a mist from the earth, and watered the whole face of the ground."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 7,
+      "text": "And the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 8,
+      "text": "And the LORD God planted a garden eastward in Eden; and there he put the man whom he had formed."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 9,
+      "text": "And out of the ground made the LORD God to grow every tree that is pleasant to the sight, and good for food; the tree of life also in the midst of the garden, and the tree of knowledge of good and evil."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 10,
+      "text": "And a river went out of Eden to water the garden; and from thence it was parted, and became into four heads."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 11,
+      "text": "The name of the first is Pison: that is it which compasseth the whole land of Havilah, where there is gold;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 12,
+      "text": "And the gold of that land is good: there is bdellium and the onyx stone."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 13,
+      "text": "And the name of the second river is Gihon: the same is it that compasseth the whole land of Ethiopia."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 14,
+      "text": "And the name of the third river is Hiddekel: that is it which goeth toward the east of Assyria. And the fourth river is Euphrates."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 15,
+      "text": "And the LORD God took the man, and put him into the garden of Eden to dress it and to keep it."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 16,
+      "text": "And the LORD God commanded the man, saying, Of every tree of the garden thou mayest freely eat:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 17,
+      "text": "But of the tree of the knowledge of good and evil, thou shalt not eat of it: for in the day that thou eatest thereof thou shalt surely die."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 18,
+      "text": "And the LORD God said, It is not good that the man should be alone; I will make him an help meet for him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 19,
+      "text": "And out of the ground the LORD God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 20,
+      "text": "And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 21,
+      "text": "And the LORD God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 22,
+      "text": "And the rib, which the LORD God had taken from man, made he a woman, and brought her unto the man."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 23,
+      "text": "And Adam said, This is now bone of my bones, and flesh of my flesh: she shall be called Woman, because she was taken out of Man."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 24,
+      "text": "Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh."
+    },
+    {
+      "bookId": 1,
+      "chapter": 2,
+      "verse": 25,
+      "text": "And they were both naked, the man and his wife, and were not ashamed."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 1,
+      "text": "Now the serpent was more subtil than any beast of the field which the LORD God had made. And he said unto the woman, Yea, hath God said, Ye shall not eat of every tree of the garden?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 2,
+      "text": "And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 3,
+      "text": "But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 4,
+      "text": "And the serpent said unto the woman, Ye shall not surely die:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 5,
+      "text": "For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 6,
+      "text": "And when the woman saw that the tree was good for food, and that it was pleasant to the eyes, and a tree to be desired to make one wise, she took of the fruit thereof, and did eat, and gave also unto her husband with her; and he did eat."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 7,
+      "text": "And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 8,
+      "text": "And they heard the voice of the LORD God walking in the garden in the cool of the day: and Adam and his wife hid themselves from the presence of the LORD God amongst the trees of the garden."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 9,
+      "text": "And the LORD God called unto Adam, and said unto him, Where art thou?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 10,
+      "text": "And he said, I heard thy voice in the garden, and I was afraid, because I was naked; and I hid myself."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 11,
+      "text": "And he said, Who told thee that thou wast naked? Hast thou eaten of the tree, whereof I commanded thee that thou shouldest not eat?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 12,
+      "text": "And the man said, The woman whom thou gavest to be with me, she gave me of the tree, and I did eat."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 13,
+      "text": "And the LORD God said unto the woman, What is this that thou hast done? And the woman said, The serpent beguiled me, and I did eat."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 14,
+      "text": "And the LORD God said unto the serpent, Because thou hast done this, thou art cursed above all cattle, and above every beast of the field; upon thy belly shalt thou go, and dust shalt thou eat all the days of thy life:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 15,
+      "text": "And I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 16,
+      "text": "Unto the woman he said, I will greatly multiply thy sorrow and thy conception; in sorrow thou shalt bring forth children; and thy desire shall be to thy husband, and he shall rule over thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 17,
+      "text": "And unto Adam he said, Because thou hast hearkened unto the voice of thy wife, and hast eaten of the tree, of which I commanded thee, saying, Thou shalt not eat of it: cursed is the ground for thy sake; in sorrow shalt thou eat of it all the days of thy life;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 18,
+      "text": "Thorns also and thistles shall it bring forth to thee; and thou shalt eat the herb of the field;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 19,
+      "text": "In the sweat of thy face shalt thou eat bread, till thou return unto the ground; for out of it wast thou taken: for dust thou art, and unto dust shalt thou return."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 20,
+      "text": "And Adam called his wife's name Eve; because she was the mother of all living."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 21,
+      "text": "Unto Adam also and to his wife did the LORD God make coats of skins, and clothed them."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 22,
+      "text": "And the LORD God said, Behold, the man is become as one of us, to know good and evil: and now, lest he put forth his hand, and take also of the tree of life, and eat, and live for ever:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 23,
+      "text": "Therefore the LORD God sent him forth from the garden of Eden, to till the ground from whence he was taken."
+    },
+    {
+      "bookId": 1,
+      "chapter": 3,
+      "verse": 24,
+      "text": "So he drove out the man; and he placed at the east of the garden of Eden Cherubims, and a flaming sword which turned every way, to keep the way of the tree of life."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 1,
+      "text": "And Adam knew Eve his wife; and she conceived, and bare Cain, and said, I have gotten a man from the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 2,
+      "text": "And she again bare his brother Abel. And Abel was a keeper of sheep, but Cain was a tiller of the ground."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 3,
+      "text": "And in process of time it came to pass, that Cain brought of the fruit of the ground an offering unto the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 4,
+      "text": "And Abel, he also brought of the firstlings of his flock and of the fat thereof. And the LORD had respect unto Abel and to his offering:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 5,
+      "text": "But unto Cain and to his offering he had not respect. And Cain was very wroth, and his countenance fell."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 6,
+      "text": "And the LORD said unto Cain, Why art thou wroth? and why is thy countenance fallen?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 7,
+      "text": "If thou doest well, shalt thou not be accepted? and if thou doest not well, sin lieth at the door. And unto thee shall be his desire, and thou shalt rule over him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 8,
+      "text": "And Cain talked with Abel his brother: and it came to pass, when they were in the field, that Cain rose up against Abel his brother, and slew him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 9,
+      "text": "And the LORD said unto Cain, Where is Abel thy brother? And he said, I know not: Am I my brother's keeper?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 10,
+      "text": "And he said, What hast thou done? the voice of thy brother's blood crieth unto me from the ground."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 11,
+      "text": "And now art thou cursed from the earth, which hath opened her mouth to receive thy brother's blood from thy hand;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 12,
+      "text": "When thou tillest the ground, it shall not henceforth yield unto thee her strength; a fugitive and a vagabond shalt thou be in the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 13,
+      "text": "And Cain said unto the LORD, My punishment is greater than I can bear."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 14,
+      "text": "Behold, thou hast driven me out this day from the face of the earth; and from thy face shall I be hid; and I shall be a fugitive and a vagabond in the earth; and it shall come to pass, that every one that findeth me shall slay me."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 15,
+      "text": "And the LORD said unto him, Therefore whosoever slayeth Cain, vengeance shall be taken on him sevenfold. And the LORD set a mark upon Cain, lest any finding him should kill him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 16,
+      "text": "And Cain went out from the presence of the LORD, and dwelt in the land of Nod, on the east of Eden."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 17,
+      "text": "And Cain knew his wife; and she conceived, and bare Enoch: and he builded a city, and called the name of the city, after the name of his son, Enoch."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 18,
+      "text": "And unto Enoch was born Irad: and Irad begat Mehujael: and Mehujael begat Methusael: and Methusael begat Lamech."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 19,
+      "text": "And Lamech took unto him two wives: the name of the one was Adah, and the name of the other Zillah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 20,
+      "text": "And Adah bare Jabal: he was the father of such as dwell in tents, and of such as have cattle."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 21,
+      "text": "And his brother's name was Jubal: he was the father of all such as handle the harp and organ."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 22,
+      "text": "And Zillah, she also bare Tubalcain, an instructer of every artificer in brass and iron: and the sister of Tubalcain was Naamah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 23,
+      "text": "And Lamech said unto his wives, Adah and Zillah, Hear my voice; ye wives of Lamech, hearken unto my speech: for I have slain a man to my wounding, and a young man to my hurt."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 24,
+      "text": "If Cain shall be avenged sevenfold, truly Lamech seventy and sevenfold."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 25,
+      "text": "And Adam knew his wife again; and she bare a son, and called his name Seth: For God, said she, hath appointed me another seed instead of Abel, whom Cain slew."
+    },
+    {
+      "bookId": 1,
+      "chapter": 4,
+      "verse": 26,
+      "text": "And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 1,
+      "text": "This is the book of the generations of Adam. In the day that God created man, in the likeness of God made he him;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 2,
+      "text": "Male and female created he them; and blessed them, and called their name Adam, in the day when they were created."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 3,
+      "text": "And Adam lived an hundred and thirty years, and begat a son in his own likeness, and after his image; and called his name Seth:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 4,
+      "text": "And the days of Adam after he had begotten Seth were eight hundred years: and he begat sons and daughters:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 5,
+      "text": "And all the days that Adam lived were nine hundred and thirty years: and he died."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 6,
+      "text": "And Seth lived an hundred and five years, and begat Enos:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 7,
+      "text": "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 8,
+      "text": "And all the days of Seth were nine hundred and twelve years: and he died."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 9,
+      "text": "And Enos lived ninety years, and begat Cainan:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 10,
+      "text": "And Enos lived after he begat Cainan eight hundred and fifteen years, and begat sons and daughters:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 11,
+      "text": "And all the days of Enos were nine hundred and five years: and he died."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 12,
+      "text": "And Cainan lived seventy years and begat Mahalaleel:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 13,
+      "text": "And Cainan lived after he begat Mahalaleel eight hundred and forty years, and begat sons and daughters:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 14,
+      "text": "And all the days of Cainan were nine hundred and ten years: and he died."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 15,
+      "text": "And Mahalaleel lived sixty and five years, and begat Jared:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 16,
+      "text": "And Mahalaleel lived after he begat Jared eight hundred and thirty years, and begat sons and daughters:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 17,
+      "text": "And all the days of Mahalaleel were eight hundred ninety and five years: and he died."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 18,
+      "text": "And Jared lived an hundred sixty and two years, and he begat Enoch:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 19,
+      "text": "And Jared lived after he begat Enoch eight hundred years, and begat sons and daughters:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 20,
+      "text": "And all the days of Jared were nine hundred sixty and two years: and he died."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 21,
+      "text": "And Enoch lived sixty and five years, and begat Methuselah:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 22,
+      "text": "And Enoch walked with God after he begat Methuselah three hundred years, and begat sons and daughters:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 23,
+      "text": "And all the days of Enoch were three hundred sixty and five years:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 24,
+      "text": "And Enoch walked with God: and he was not; for God took him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 25,
+      "text": "And Methuselah lived an hundred eighty and seven years, and begat Lamech."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 26,
+      "text": "And Methuselah lived after he begat Lamech seven hundred eighty and two years, and begat sons and daughters:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 27,
+      "text": "And all the days of Methuselah were nine hundred sixty and nine years: and he died."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 28,
+      "text": "And Lamech lived an hundred eighty and two years, and begat a son:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 29,
+      "text": "And he called his name Noah, saying, This same shall comfort us concerning our work and toil of our hands, because of the ground which the LORD hath cursed."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 30,
+      "text": "And Lamech lived after he begat Noah five hundred ninety and five years, and begat sons and daughters:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 31,
+      "text": "And all the days of Lamech were seven hundred seventy and seven years: and he died."
+    },
+    {
+      "bookId": 1,
+      "chapter": 5,
+      "verse": 32,
+      "text": "And Noah was five hundred years old: and Noah begat Shem, Ham, and Japheth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 1,
+      "text": "And it came to pass, when men began to multiply on the face of the earth, and daughters were born unto them,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 2,
+      "text": "That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 3,
+      "text": "And the LORD said, My spirit shall not always strive with man, for that he also is flesh: yet his days shall be an hundred and twenty years."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 4,
+      "text": "There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 5,
+      "text": "And God saw that the wickedness of man was great in the earth, and that every imagination of the thoughts of his heart was only evil continually."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 6,
+      "text": "And it repented the LORD that he had made man on the earth, and it grieved him at his heart."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 7,
+      "text": "And the LORD said, I will destroy man whom I have created from the face of the earth; both man, and beast, and the creeping thing, and the fowls of the air; for it repenteth me that I have made them."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 8,
+      "text": "But Noah found grace in the eyes of the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 9,
+      "text": "These are the generations of Noah: Noah was a just man and perfect in his generations, and Noah walked with God."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 10,
+      "text": "And Noah begat three sons, Shem, Ham, and Japheth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 11,
+      "text": "The earth also was corrupt before God, and the earth was filled with violence."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 12,
+      "text": "And God looked upon the earth, and, behold, it was corrupt; for all flesh had corrupted his way upon the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 13,
+      "text": "And God said unto Noah, The end of all flesh is come before me; for the earth is filled with violence through them; and, behold, I will destroy them with the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 14,
+      "text": "Make thee an ark of gopher wood; rooms shalt thou make in the ark, and shalt pitch it within and without with pitch."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 15,
+      "text": "And this is the fashion which thou shalt make it of: The length of the ark shall be three hundred cubits, the breadth of it fifty cubits, and the height of it thirty cubits."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 16,
+      "text": "A window shalt thou make to the ark, and in a cubit shalt thou finish it above; and the door of the ark shalt thou set in the side thereof; with lower, second, and third stories shalt thou make it."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 17,
+      "text": "And, behold, I, even I, do bring a flood of waters upon the earth, to destroy all flesh, wherein is the breath of life, from under heaven; and every thing that is in the earth shall die."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 18,
+      "text": "But with thee will I establish my covenant; and thou shalt come into the ark, thou, and thy sons, and thy wife, and thy sons' wives with thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 19,
+      "text": "And of every living thing of all flesh, two of every sort shalt thou bring into the ark, to keep them alive with thee; they shall be male and female."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 20,
+      "text": "Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 21,
+      "text": "And take thou unto thee of all food that is eaten, and thou shalt gather it to thee; and it shall be for food for thee, and for them."
+    },
+    {
+      "bookId": 1,
+      "chapter": 6,
+      "verse": 22,
+      "text": "Thus did Noah; according to all that God commanded him, so did he."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 1,
+      "text": "And the LORD said unto Noah, Come thou and all thy house into the ark; for thee have I seen righteous before me in this generation."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 2,
+      "text": "Of every clean beast thou shalt take to thee by sevens, the male and his female: and of beasts that are not clean by two, the male and his female."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 3,
+      "text": "Of fowls also of the air by sevens, the male and the female; to keep seed alive upon the face of all the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 4,
+      "text": "For yet seven days, and I will cause it to rain upon the earth forty days and forty nights; and every living substance that I have made will I destroy from off the face of the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 5,
+      "text": "And Noah did according unto all that the LORD commanded him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 6,
+      "text": "And Noah was six hundred years old when the flood of waters was upon the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 7,
+      "text": "And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 8,
+      "text": "Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 9,
+      "text": "There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 10,
+      "text": "And it came to pass after seven days, that the waters of the flood were upon the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 11,
+      "text": "In the six hundredth year of Noah's life, in the second month, the seventeenth day of the month, the same day were all the fountains of the great deep broken up, and the windows of heaven were opened."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 12,
+      "text": "And the rain was upon the earth forty days and forty nights."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 13,
+      "text": "In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 14,
+      "text": "They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 15,
+      "text": "And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 16,
+      "text": "And they that went in, went in male and female of all flesh, as God had commanded him: and the LORD shut him in."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 17,
+      "text": "And the flood was forty days upon the earth; and the waters increased, and bare up the ark, and it was lift up above the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 18,
+      "text": "And the waters prevailed, and were increased greatly upon the earth; and the ark went upon the face of the waters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 19,
+      "text": "And the waters prevailed exceedingly upon the earth; and all the high hills, that were under the whole heaven, were covered."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 20,
+      "text": "Fifteen cubits upward did the waters prevail; and the mountains were covered."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 21,
+      "text": "And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 22,
+      "text": "All in whose nostrils was the breath of life, of all that was in the dry land, died."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 23,
+      "text": "And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark."
+    },
+    {
+      "bookId": 1,
+      "chapter": 7,
+      "verse": 24,
+      "text": "And the waters prevailed upon the earth an hundred and fifty days."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 1,
+      "text": "And God remembered Noah, and every living thing, and all the cattle that was with him in the ark: and God made a wind to pass over the earth, and the waters asswaged;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 2,
+      "text": "The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 3,
+      "text": "And the waters returned from off the earth continually: and after the end of the hundred and fifty days the waters were abated."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 4,
+      "text": "And the ark rested in the seventh month, on the seventeenth day of the month, upon the mountains of Ararat."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 5,
+      "text": "And the waters decreased continually until the tenth month: in the tenth month, on the first day of the month, were the tops of the mountains seen."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 6,
+      "text": "And it came to pass at the end of forty days, that Noah opened the window of the ark which he had made:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 7,
+      "text": "And he sent forth a raven, which went forth to and fro, until the waters were dried up from off the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 8,
+      "text": "Also he sent forth a dove from him, to see if the waters were abated from off the face of the ground;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 9,
+      "text": "But the dove found no rest for the sole of her foot, and she returned unto him into the ark, for the waters were on the face of the whole earth: then he put forth his hand, and took her, and pulled her in unto him into the ark."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 10,
+      "text": "And he stayed yet other seven days; and again he sent forth the dove out of the ark;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 11,
+      "text": "And the dove came in to him in the evening; and, lo, in her mouth was an olive leaf pluckt off: so Noah knew that the waters were abated from off the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 12,
+      "text": "And he stayed yet other seven days; and sent forth the dove; which returned not again unto him any more."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 13,
+      "text": "And it came to pass in the six hundredth and first year, in the first month, the first day of the month, the waters were dried up from off the earth: and Noah removed the covering of the ark, and looked, and, behold, the face of the ground was dry."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 14,
+      "text": "And in the second month, on the seven and twentieth day of the month, was the earth dried."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 15,
+      "text": "And God spake unto Noah, saying,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 16,
+      "text": "Go forth of the ark, thou, and thy wife, and thy sons, and thy sons' wives with thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 17,
+      "text": "Bring forth with thee every living thing that is with thee, of all flesh, both of fowl, and of cattle, and of every creeping thing that creepeth upon the earth; that they may breed abundantly in the earth, and be fruitful, and multiply upon the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 18,
+      "text": "And Noah went forth, and his sons, and his wife, and his sons' wives with him:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 19,
+      "text": "Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 20,
+      "text": "And Noah builded an altar unto the LORD; and took of every clean beast, and of every clean fowl, and offered burnt offerings on the altar."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 21,
+      "text": "And the LORD smelled a sweet savour; and the LORD said in his heart, I will not again curse the ground any more for man's sake; for the imagination of man's heart is evil from his youth; neither will I again smite any more every thing living, as I have done."
+    },
+    {
+      "bookId": 1,
+      "chapter": 8,
+      "verse": 22,
+      "text": "While the earth remaineth, seedtime and harvest, and cold and heat, and summer and winter, and day and night shall not cease."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 1,
+      "text": "And God blessed Noah and his sons, and said unto them, Be fruitful, and multiply, and replenish the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 2,
+      "text": "And the fear of you and the dread of you shall be upon every beast of the earth, and upon every fowl of the air, upon all that moveth upon the earth, and upon all the fishes of the sea; into your hand are they delivered."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 3,
+      "text": "Every moving thing that liveth shall be meat for you; even as the green herb have I given you all things."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 4,
+      "text": "But flesh with the life thereof, which is the blood thereof, shall ye not eat."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 5,
+      "text": "And surely your blood of your lives will I require; at the hand of every beast will I require it, and at the hand of man; at the hand of every man's brother will I require the life of man."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 6,
+      "text": "Whoso sheddeth man's blood, by man shall his blood be shed: for in the image of God made he man."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 7,
+      "text": "And you, be ye fruitful, and multiply; bring forth abundantly in the earth, and multiply therein."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 8,
+      "text": "And God spake unto Noah, and to his sons with him, saying,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 9,
+      "text": "And I, behold, I establish my covenant with you, and with your seed after you;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 10,
+      "text": "And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 11,
+      "text": "And I will establish my covenant with you, neither shall all flesh be cut off any more by the waters of a flood; neither shall there any more be a flood to destroy the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 12,
+      "text": "And God said, This is the token of the covenant which I make between me and you and every living creature that is with you, for perpetual generations:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 13,
+      "text": "I do set my bow in the cloud, and it shall be for a token of a covenant between me and the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 14,
+      "text": "And it shall come to pass, when I bring a cloud over the earth, that the bow shall be seen in the cloud:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 15,
+      "text": "And I will remember my covenant, which is between me and you and every living creature of all flesh; and the waters shall no more become a flood to destroy all flesh."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 16,
+      "text": "And the bow shall be in the cloud; and I will look upon it, that I may remember the everlasting covenant between God and every living creature of all flesh that is upon the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 17,
+      "text": "And God said unto Noah, This is the token of the covenant, which I have established between me and all flesh that is upon the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 18,
+      "text": "And the sons of Noah, that went forth of the ark, were Shem, and Ham, and Japheth: and Ham is the father of Canaan."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 19,
+      "text": "These are the three sons of Noah: and of them was the whole earth overspread."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 20,
+      "text": "And Noah began to be an husbandman, and he planted a vineyard:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 21,
+      "text": "And he drank of the wine, and was drunken; and he was uncovered within his tent."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 22,
+      "text": "And Ham, the father of Canaan, saw the nakedness of his father, and told his two brethren without."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 23,
+      "text": "And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father's nakedness."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 24,
+      "text": "And Noah awoke from his wine, and knew what his younger son had done unto him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 25,
+      "text": "And he said, Cursed be Canaan; a servant of servants shall he be unto his brethren."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 26,
+      "text": "And he said, Blessed be the LORD God of Shem; and Canaan shall be his servant."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 27,
+      "text": "God shall enlarge Japheth, and he shall dwell in the tents of Shem; and Canaan shall be his servant."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 28,
+      "text": "And Noah lived after the flood three hundred and fifty years."
+    },
+    {
+      "bookId": 1,
+      "chapter": 9,
+      "verse": 29,
+      "text": "And all the days of Noah were nine hundred and fifty years: and he died."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 1,
+      "text": "Now these are the generations of the sons of Noah, Shem, Ham, and Japheth: and unto them were sons born after the flood."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 2,
+      "text": "The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 3,
+      "text": "And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 4,
+      "text": "And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 5,
+      "text": "By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 6,
+      "text": "And the sons of Ham; Cush, and Mizraim, and Phut, and Canaan."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 7,
+      "text": "And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtechah: and the sons of Raamah; Sheba, and Dedan."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 8,
+      "text": "And Cush begat Nimrod: he began to be a mighty one in the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 9,
+      "text": "He was a mighty hunter before the LORD: wherefore it is said, Even as Nimrod the mighty hunter before the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 10,
+      "text": "And the beginning of his kingdom was Babel, and Erech, and Accad, and Calneh, in the land of Shinar."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 11,
+      "text": "Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 12,
+      "text": "And Resen between Nineveh and Calah: the same is a great city."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 13,
+      "text": "And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 14,
+      "text": "And Pathrusim, and Casluhim, (out of whom came Philistim,) and Caphtorim."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 15,
+      "text": "And Canaan begat Sidon his first born, and Heth,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 16,
+      "text": "And the Jebusite, and the Amorite, and the Girgasite,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 17,
+      "text": "And the Hivite, and the Arkite, and the Sinite,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 18,
+      "text": "And the Arvadite, and the Zemarite, and the Hamathite: and afterward were the families of the Canaanites spread abroad."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 19,
+      "text": "And the border of the Canaanites was from Sidon, as thou comest to Gerar, unto Gaza; as thou goest, unto Sodom, and Gomorrah, and Admah, and Zeboim, even unto Lasha."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 20,
+      "text": "These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 21,
+      "text": "Unto Shem also, the father of all the children of Eber, the brother of Japheth the elder, even to him were children born."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 22,
+      "text": "The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 23,
+      "text": "And the children of Aram; Uz, and Hul, and Gether, and Mash."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 24,
+      "text": "And Arphaxad begat Salah; and Salah begat Eber."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 25,
+      "text": "And unto Eber were born two sons: the name of one was Peleg; for in his days was the earth divided; and his brother's name was Joktan."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 26,
+      "text": "And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 27,
+      "text": "And Hadoram, and Uzal, and Diklah,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 28,
+      "text": "And Obal, and Abimael, and Sheba,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 29,
+      "text": "And Ophir, and Havilah, and Jobab: all these were the sons of Joktan."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 30,
+      "text": "And their dwelling was from Mesha, as thou goest unto Sephar a mount of the east."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 31,
+      "text": "These are the sons of Shem, after their families, after their tongues, in their lands, after their nations."
+    },
+    {
+      "bookId": 1,
+      "chapter": 10,
+      "verse": 32,
+      "text": "These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 1,
+      "text": "And the whole earth was of one language, and of one speech."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 2,
+      "text": "And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 3,
+      "text": "And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for morter."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 4,
+      "text": "And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 5,
+      "text": "And the LORD came down to see the city and the tower, which the children of men builded."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 6,
+      "text": "And the LORD said, Behold, the people is one, and they have all one language; and this they begin to do: and now nothing will be restrained from them, which they have imagined to do."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 7,
+      "text": "Go to, let us go down, and there confound their language, that they may not understand one another's speech."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 8,
+      "text": "So the LORD scattered them abroad from thence upon the face of all the earth: and they left off to build the city."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 9,
+      "text": "Therefore is the name of it called Babel; because the LORD did there confound the language of all the earth: and from thence did the LORD scatter them abroad upon the face of all the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 10,
+      "text": "These are the generations of Shem: Shem was an hundred years old, and begat Arphaxad two years after the flood:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 11,
+      "text": "And Shem lived after he begat Arphaxad five hundred years, and begat sons and daughters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 12,
+      "text": "And Arphaxad lived five and thirty years, and begat Salah:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 13,
+      "text": "And Arphaxad lived after he begat Salah four hundred and three years, and begat sons and daughters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 14,
+      "text": "And Salah lived thirty years, and begat Eber:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 15,
+      "text": "And Salah lived after he begat Eber four hundred and three years, and begat sons and daughters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 16,
+      "text": "And Eber lived four and thirty years, and begat Peleg:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 17,
+      "text": "And Eber lived after he begat Peleg four hundred and thirty years, and begat sons and daughters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 18,
+      "text": "And Peleg lived thirty years, and begat Reu:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 19,
+      "text": "And Peleg lived after he begat Reu two hundred and nine years, and begat sons and daughters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 20,
+      "text": "And Reu lived two and thirty years, and begat Serug:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 21,
+      "text": "And Reu lived after he begat Serug two hundred and seven years, and begat sons and daughters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 22,
+      "text": "And Serug lived thirty years, and begat Nahor:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 23,
+      "text": "And Serug lived after he begat Nahor two hundred years, and begat sons and daughters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 24,
+      "text": "And Nahor lived nine and twenty years, and begat Terah:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 25,
+      "text": "And Nahor lived after he begat Terah an hundred and nineteen years, and begat sons and daughters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 26,
+      "text": "And Terah lived seventy years, and begat Abram, Nahor, and Haran."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 27,
+      "text": "Now these are the generations of Terah: Terah begat Abram, Nahor, and Haran; and Haran begat Lot."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 28,
+      "text": "And Haran died before his father Terah in the land of his nativity, in Ur of the Chaldees."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 29,
+      "text": "And Abram and Nahor took them wives: the name of Abram's wife was Sarai; and the name of Nahor's wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 30,
+      "text": "But Sarai was barren; she had no child."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 31,
+      "text": "And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter in law, his son Abram's wife; and they went forth with them from Ur of the Chaldees, to go into the land of Canaan; and they came unto Haran, and dwelt there."
+    },
+    {
+      "bookId": 1,
+      "chapter": 11,
+      "verse": 32,
+      "text": "And the days of Terah were two hundred and five years: and Terah died in Haran."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 1,
+      "text": "Now the LORD had said unto Abram, Get thee out of thy country, and from thy kindred, and from thy father's house, unto a land that I will shew thee:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 2,
+      "text": "And I will make of thee a great nation, and I will bless thee, and make thy name great; and thou shalt be a blessing:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 3,
+      "text": "And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 4,
+      "text": "So Abram departed, as the LORD had spoken unto him; and Lot went with him: and Abram was seventy and five years old when he departed out of Haran."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 5,
+      "text": "And Abram took Sarai his wife, and Lot his brother's son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 6,
+      "text": "And Abram passed through the land unto the place of Sichem, unto the plain of Moreh. And the Canaanite was then in the land."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 7,
+      "text": "And the LORD appeared unto Abram, and said, Unto thy seed will I give this land: and there builded he an altar unto the LORD, who appeared unto him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 8,
+      "text": "And he removed from thence unto a mountain on the east of Bethel, and pitched his tent, having Bethel on the west, and Hai on the east: and there he builded an altar unto the LORD, and called upon the name of the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 9,
+      "text": "And Abram journeyed, going on still toward the south."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 10,
+      "text": "And there was a famine in the land: and Abram went down into Egypt to sojourn there; for the famine was grievous in the land."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 11,
+      "text": "And it came to pass, when he was come near to enter into Egypt, that he said unto Sarai his wife, Behold now, I know that thou art a fair woman to look upon:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 12,
+      "text": "Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will save thee alive."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 13,
+      "text": "Say, I pray thee, thou art my sister: that it may be well with me for thy sake; and my soul shall live because of thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 14,
+      "text": "And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she was very fair."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 15,
+      "text": "The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh's house."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 16,
+      "text": "And he entreated Abram well for her sake: and he had sheep, and oxen, and he asses, and menservants, and maidservants, and she asses, and camels."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 17,
+      "text": "And the LORD plagued Pharaoh and his house with great plagues because of Sarai Abram's wife."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 18,
+      "text": "And Pharaoh called Abram and said, What is this that thou hast done unto me? why didst thou not tell me that she was thy wife?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 19,
+      "text": "Why saidst thou, She is my sister? so I might have taken her to me to wife: now therefore behold thy wife, take her, and go thy way."
+    },
+    {
+      "bookId": 1,
+      "chapter": 12,
+      "verse": 20,
+      "text": "And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 1,
+      "text": "And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 2,
+      "text": "And Abram was very rich in cattle, in silver, and in gold."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 3,
+      "text": "And he went on his journeys from the south even to Bethel, unto the place where his tent had been at the beginning, between Bethel and Hai;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 4,
+      "text": "Unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 5,
+      "text": "And Lot also, which went with Abram, had flocks, and herds, and tents."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 6,
+      "text": "And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 7,
+      "text": "And there was a strife between the herdmen of Abram's cattle and the herdmen of Lot's cattle: and the Canaanite and the Perizzite dwelled then in the land."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 8,
+      "text": "And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 9,
+      "text": "Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 10,
+      "text": "And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 11,
+      "text": "Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 12,
+      "text": "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 13,
+      "text": "But the men of Sodom were wicked and sinners before the LORD exceedingly."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 14,
+      "text": "And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 15,
+      "text": "For all the land which thou seest, to thee will I give it, and to thy seed for ever."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 16,
+      "text": "And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 17,
+      "text": "Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 13,
+      "verse": 18,
+      "text": "Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 1,
+      "text": "And it came to pass in the days of Amraphel king of Shinar, Arioch king of Ellasar, Chedorlaomer king of Elam, and Tidal king of nations;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 2,
+      "text": "That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 3,
+      "text": "All these were joined together in the vale of Siddim, which is the salt sea."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 4,
+      "text": "Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 5,
+      "text": "And in the fourteenth year came Chedorlaomer, and the kings that were with him, and smote the Rephaims in Ashteroth Karnaim, and the Zuzims in Ham, and the Emins in Shaveh Kiriathaim,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 6,
+      "text": "And the Horites in their mount Seir, unto Elparan, which is by the wilderness."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 7,
+      "text": "And they returned, and came to Enmishpat, which is Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazezontamar."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 8,
+      "text": "And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 9,
+      "text": "With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 10,
+      "text": "And the vale of Siddim was full of slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 11,
+      "text": "And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 12,
+      "text": "And they took Lot, Abram's brother's son, who dwelt in Sodom, and his goods, and departed."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 13,
+      "text": "And there came one that had escaped, and told Abram the Hebrew; for he dwelt in the plain of Mamre the Amorite, brother of Eshcol, and brother of Aner: and these were confederate with Abram."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 14,
+      "text": "And when Abram heard that his brother was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them unto Dan."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 15,
+      "text": "And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which is on the left hand of Damascus."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 16,
+      "text": "And he brought back all the goods, and also brought again his brother Lot, and his goods, and the women also, and the people."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 17,
+      "text": "And the king of Sodom went out to meet him after his return from the slaughter of Chedorlaomer, and of the kings that were with him, at the valley of Shaveh, which is the king's dale."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 18,
+      "text": "And Melchizedek king of Salem brought forth bread and wine: and he was the priest of the most high God."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 19,
+      "text": "And he blessed him, and said, Blessed be Abram of the most high God, possessor of heaven and earth:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 20,
+      "text": "And blessed be the most high God, which hath delivered thine enemies into thy hand. And he gave him tithes of all."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 21,
+      "text": "And the king of Sodom said unto Abram, Give me the persons, and take the goods to thyself."
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 22,
+      "text": "And Abram said to the king of Sodom, I have lift up mine hand unto the LORD, the most high God, the possessor of heaven and earth,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 23,
+      "text": "That I will not take from a thread even to a shoelatchet, and that I will not take any thing that is thine, lest thou shouldest say, I have made Abram rich:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 14,
+      "verse": 24,
+      "text": "Save only that which the young men have eaten, and the portion of the men which went with me, Aner, Eshcol, and Mamre; let them take their portion."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 1,
+      "text": "After these things the word of the LORD came unto Abram in a vision, saying, Fear not, Abram: I am thy shield, and thy exceeding great reward."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 2,
+      "text": "And Abram said, LORD God, what wilt thou give me, seeing I go childless, and the steward of my house is this Eliezer of Damascus?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 3,
+      "text": "And Abram said, Behold, to me thou hast given no seed: and, lo, one born in my house is mine heir."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 4,
+      "text": "And, behold, the word of the LORD came unto him, saying, This shall not be thine heir; but he that shall come forth out of thine own bowels shall be thine heir."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 5,
+      "text": "And he brought him forth abroad, and said, Look now toward heaven, and tell the stars, if thou be able to number them: and he said unto him, So shall thy seed be."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 6,
+      "text": "And he believed in the LORD; and he counted it to him for righteousness."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 7,
+      "text": "And he said unto him, I am the LORD that brought thee out of Ur of the Chaldees, to give thee this land to inherit it."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 8,
+      "text": "And he said, LORD God, whereby shall I know that I shall inherit it?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 9,
+      "text": "And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 10,
+      "text": "And he took unto him all these, and divided them in the midst, and laid each piece one against another: but the birds divided he not."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 11,
+      "text": "And when the fowls came down upon the carcases, Abram drove them away."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 12,
+      "text": "And when the sun was going down, a deep sleep fell upon Abram; and, lo, an horror of great darkness fell upon him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 13,
+      "text": "And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 14,
+      "text": "And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 15,
+      "text": "And thou shalt go to thy fathers in peace; thou shalt be buried in a good old age."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 16,
+      "text": "But in the fourth generation they shall come hither again: for the iniquity of the Amorites is not yet full."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 17,
+      "text": "And it came to pass, that, when the sun went down, and it was dark, behold a smoking furnace, and a burning lamp that passed between those pieces."
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 18,
+      "text": "In the same day the LORD made a covenant with Abram, saying, Unto thy seed have I given this land, from the river of Egypt unto the great river, the river Euphrates:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 19,
+      "text": "The Kenites, and the Kenizzites, and the Kadmonites,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 20,
+      "text": "And the Hittites, and the Perizzites, and the Rephaims,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 15,
+      "verse": 21,
+      "text": "And the Amorites, and the Canaanites, and the Girgashites, and the Jebusites."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 1,
+      "text": "Now Sarai Abram's wife bare him no children: and she had an handmaid, an Egyptian, whose name was Hagar."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 2,
+      "text": "And Sarai said unto Abram, Behold now, the LORD hath restrained me from bearing: I pray thee, go in unto my maid; it may be that I may obtain children by her. And Abram hearkened to the voice of Sarai."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 3,
+      "text": "And Sarai Abram's wife took Hagar her maid the Egyptian, after Abram had dwelt ten years in the land of Canaan, and gave her to her husband Abram to be his wife."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 4,
+      "text": "And he went in unto Hagar, and she conceived: and when she saw that she had conceived, her mistress was despised in her eyes."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 5,
+      "text": "And Sarai said unto Abram, My wrong be upon thee: I have given my maid into thy bosom; and when she saw that she had conceived, I was despised in her eyes: the LORD judge between me and thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 6,
+      "text": "But Abram said unto Sarai, Behold, thy maid is in thine hand; do to her as it pleaseth thee. And when Sarai dealt hardly with her, she fled from her face."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 7,
+      "text": "And the angel of the LORD found her by a fountain of water in the wilderness, by the fountain in the way to Shur."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 8,
+      "text": "And he said, Hagar, Sarai's maid, whence camest thou? and whither wilt thou go? And she said, I flee from the face of my mistress Sarai."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 9,
+      "text": "And the angel of the LORD said unto her, Return to thy mistress, and submit thyself under her hands."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 10,
+      "text": "And the angel of the LORD said unto her, I will multiply thy seed exceedingly, that it shall not be numbered for multitude."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 11,
+      "text": "And the angel of the LORD said unto her, Behold, thou art with child and shalt bear a son, and shalt call his name Ishmael; because the LORD hath heard thy affliction."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 12,
+      "text": "And he will be a wild man; his hand will be against every man, and every man's hand against him; and he shall dwell in the presence of all his brethren."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 13,
+      "text": "And she called the name of the LORD that spake unto her, Thou God seest me: for she said, Have I also here looked after him that seeth me?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 14,
+      "text": "Wherefore the well was called Beerlahairoi; behold, it is between Kadesh and Bered."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 15,
+      "text": "And Hagar bare Abram a son: and Abram called his son's name, which Hagar bare, Ishmael."
+    },
+    {
+      "bookId": 1,
+      "chapter": 16,
+      "verse": 16,
+      "text": "And Abram was fourscore and six years old, when Hagar bare Ishmael to Abram."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 1,
+      "text": "And when Abram was ninety years old and nine, the LORD appeared to Abram, and said unto him, I am the Almighty God; walk before me, and be thou perfect."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 2,
+      "text": "And I will make my covenant between me and thee, and will multiply thee exceedingly."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 3,
+      "text": "And Abram fell on his face: and God talked with him, saying,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 4,
+      "text": "As for me, behold, my covenant is with thee, and thou shalt be a father of many nations."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 5,
+      "text": "Neither shall thy name any more be called Abram, but thy name shall be Abraham; for a father of many nations have I made thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 6,
+      "text": "And I will make thee exceeding fruitful, and I will make nations of thee, and kings shall come out of thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 7,
+      "text": "And I will establish my covenant between me and thee and thy seed after thee in their generations for an everlasting covenant, to be a God unto thee, and to thy seed after thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 8,
+      "text": "And I will give unto thee, and to thy seed after thee, the land wherein thou art a stranger, all the land of Canaan, for an everlasting possession; and I will be their God."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 9,
+      "text": "And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 10,
+      "text": "This is my covenant, which ye shall keep, between me and you and thy seed after thee; Every man child among you shall be circumcised."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 11,
+      "text": "And ye shall circumcise the flesh of your foreskin; and it shall be a token of the covenant betwixt me and you."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 12,
+      "text": "And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which is not of thy seed."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 13,
+      "text": "He that is born in thy house, and he that is bought with thy money, must needs be circumcised: and my covenant shall be in your flesh for an everlasting covenant."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 14,
+      "text": "And the uncircumcised man child whose flesh of his foreskin is not circumcised, that soul shall be cut off from his people; he hath broken my covenant."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 15,
+      "text": "And God said unto Abraham, As for Sarai thy wife, thou shalt not call her name Sarai, but Sarah shall her name be."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 16,
+      "text": "And I will bless her, and give thee a son also of her: yea, I will bless her, and she shall be a mother of nations; kings of people shall be of her."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 17,
+      "text": "Then Abraham fell upon his face, and laughed, and said in his heart, Shall a child be born unto him that is an hundred years old? and shall Sarah, that is ninety years old, bear?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 18,
+      "text": "And Abraham said unto God, O that Ishmael might live before thee!"
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 19,
+      "text": "And God said, Sarah thy wife shall bear thee a son indeed; and thou shalt call his name Isaac: and I will establish my covenant with him for an everlasting covenant, and with his seed after him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 20,
+      "text": "And as for Ishmael, I have heard thee: Behold, I have blessed him, and will make him fruitful, and will multiply him exceedingly; twelve princes shall he beget, and I will make him a great nation."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 21,
+      "text": "But my covenant will I establish with Isaac, which Sarah shall bear unto thee at this set time in the next year."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 22,
+      "text": "And he left off talking with him, and God went up from Abraham."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 23,
+      "text": "And Abraham took Ishmael his son, and all that were born in his house, and all that were bought with his money, every male among the men of Abraham's house; and circumcised the flesh of their foreskin in the selfsame day, as God had said unto him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 24,
+      "text": "And Abraham was ninety years old and nine, when he was circumcised in the flesh of his foreskin."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 25,
+      "text": "And Ishmael his son was thirteen years old, when he was circumcised in the flesh of his foreskin."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 26,
+      "text": "In the selfsame day was Abraham circumcised, and Ishmael his son."
+    },
+    {
+      "bookId": 1,
+      "chapter": 17,
+      "verse": 27,
+      "text": "And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 1,
+      "text": "And the LORD appeared unto him in the plains of Mamre: and he sat in the tent door in the heat of the day;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 2,
+      "text": "And he lift up his eyes and looked, and, lo, three men stood by him: and when he saw them, he ran to meet them from the tent door, and bowed himself toward the ground,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 3,
+      "text": "And said, My LORD, if now I have found favour in thy sight, pass not away, I pray thee, from thy servant:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 4,
+      "text": "Let a little water, I pray you, be fetched, and wash your feet, and rest yourselves under the tree:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 5,
+      "text": "And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 6,
+      "text": "And Abraham hastened into the tent unto Sarah, and said, Make ready quickly three measures of fine meal, knead it, and make cakes upon the hearth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 7,
+      "text": "And Abraham ran unto the herd, and fetcht a calf tender and good, and gave it unto a young man; and he hasted to dress it."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 8,
+      "text": "And he took butter, and milk, and the calf which he had dressed, and set it before them; and he stood by them under the tree, and they did eat."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 9,
+      "text": "And they said unto him, Where is Sarah thy wife? And he said, Behold, in the tent."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 10,
+      "text": "And he said, I will certainly return unto thee according to the time of life; and, lo, Sarah thy wife shall have a son. And Sarah heard it in the tent door, which was behind him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 11,
+      "text": "Now Abraham and Sarah were old and well stricken in age; and it ceased to be with Sarah after the manner of women."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 12,
+      "text": "Therefore Sarah laughed within herself, saying, After I am waxed old shall I have pleasure, my lord being old also?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 13,
+      "text": "And the LORD said unto Abraham, Wherefore did Sarah laugh, saying, Shall I of a surety bear a child, which am old?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 14,
+      "text": "Is any thing too hard for the LORD? At the time appointed I will return unto thee, according to the time of life, and Sarah shall have a son."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 15,
+      "text": "Then Sarah denied, saying, I laughed not; for she was afraid. And he said, Nay; but thou didst laugh."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 16,
+      "text": "And the men rose up from thence, and looked toward Sodom: and Abraham went with them to bring them on the way."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 17,
+      "text": "And the LORD said, Shall I hide from Abraham that thing which I do;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 18,
+      "text": "Seeing that Abraham shall surely become a great and mighty nation, and all the nations of the earth shall be blessed in him?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 19,
+      "text": "For I know him, that he will command his children and his household after him, and they shall keep the way of the LORD, to do justice and judgment; that the LORD may bring upon Abraham that which he hath spoken of him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 20,
+      "text": "And the LORD said, Because the cry of Sodom and Gomorrah is great, and because their sin is very grievous;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 21,
+      "text": "I will go down now, and see whether they have done altogether according to the cry of it, which is come unto me; and if not, I will know."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 22,
+      "text": "And the men turned their faces from thence, and went toward Sodom: but Abraham stood yet before the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 23,
+      "text": "And Abraham drew near, and said, Wilt thou also destroy the righteous with the wicked?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 24,
+      "text": "Peradventure there be fifty righteous within the city: wilt thou also destroy and not spare the place for the fifty righteous that are therein?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 25,
+      "text": "That be far from thee to do after this manner, to slay the righteous with the wicked: and that the righteous should be as the wicked, that be far from thee: Shall not the Judge of all the earth do right?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 26,
+      "text": "And the LORD said, If I find in Sodom fifty righteous within the city, then I will spare all the place for their sakes."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 27,
+      "text": "And Abraham answered and said, Behold now, I have taken upon me to speak unto the LORD, which am but dust and ashes:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 28,
+      "text": "Peradventure there shall lack five of the fifty righteous: wilt thou destroy all the city for lack of five? And he said, If I find there forty and five, I will not destroy it."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 29,
+      "text": "And he spake unto him yet again, and said, Peradventure there shall be forty found there. And he said, I will not do it for forty's sake."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 30,
+      "text": "And he said unto him, Oh let not the LORD be angry, and I will speak: Peradventure there shall thirty be found there. And he said, I will not do it, if I find thirty there."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 31,
+      "text": "And he said, Behold now, I have taken upon me to speak unto the LORD: Peradventure there shall be twenty found there. And he said, I will not destroy it for twenty's sake."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 32,
+      "text": "And he said, Oh let not the LORD be angry, and I will speak yet but this once: Peradventure ten shall be found there. And he said, I will not destroy it for ten's sake."
+    },
+    {
+      "bookId": 1,
+      "chapter": 18,
+      "verse": 33,
+      "text": "And the LORD went his way, as soon as he had left communing with Abraham: and Abraham returned unto his place."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 1,
+      "text": "And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 2,
+      "text": "And he said, Behold now, my lords, turn in, I pray you, into your servant's house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your ways. And they said, Nay; but we will abide in the street all night."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 3,
+      "text": "And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 4,
+      "text": "But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 5,
+      "text": "And they called unto Lot, and said unto him, Where are the men which came in to thee this night? bring them out unto us, that we may know them."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 6,
+      "text": "And Lot went out at the door unto them, and shut the door after him,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 7,
+      "text": "And said, I pray you, brethren, do not so wickedly."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 8,
+      "text": "Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 9,
+      "text": "And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 10,
+      "text": "But the men put forth their hand, and pulled Lot into the house to them, and shut to the door."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 11,
+      "text": "And they smote the men that were at the door of the house with blindness, both small and great: so that they wearied themselves to find the door."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 12,
+      "text": "And the men said unto Lot, Hast thou here any besides? son in law, and thy sons, and thy daughters, and whatsoever thou hast in the city, bring them out of this place:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 13,
+      "text": "For we will destroy this place, because the cry of them is waxen great before the face of the LORD; and the LORD hath sent us to destroy it."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 14,
+      "text": "And Lot went out, and spake unto his sons in law, which married his daughters, and said, Up, get you out of this place; for the LORD will destroy this city. But he seemed as one that mocked unto his sons in law."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 15,
+      "text": "And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 16,
+      "text": "And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the LORD being merciful unto him: and they brought him forth, and set him without the city."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 17,
+      "text": "And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 18,
+      "text": "And Lot said unto them, Oh, not so, my LORD:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 19,
+      "text": "Behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 20,
+      "text": "Behold now, this city is near to flee unto, and it is a little one: Oh, let me escape thither, (is it not a little one?) and my soul shall live."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 21,
+      "text": "And he said unto him, See, I have accepted thee concerning this thing also, that I will not overthrow this city, for the which thou hast spoken."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 22,
+      "text": "Haste thee, escape thither; for I cannot do anything till thou be come thither. Therefore the name of the city was called Zoar."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 23,
+      "text": "The sun was risen upon the earth when Lot entered into Zoar."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 24,
+      "text": "Then the LORD rained upon Sodom and upon Gomorrah brimstone and fire from the LORD out of heaven;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 25,
+      "text": "And he overthrew those cities, and all the plain, and all the inhabitants of the cities, and that which grew upon the ground."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 26,
+      "text": "But his wife looked back from behind him, and she became a pillar of salt."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 27,
+      "text": "And Abraham gat up early in the morning to the place where he stood before the LORD:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 28,
+      "text": "And he looked toward Sodom and Gomorrah, and toward all the land of the plain, and beheld, and, lo, the smoke of the country went up as the smoke of a furnace."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 29,
+      "text": "And it came to pass, when God destroyed the cities of the plain, that God remembered Abraham, and sent Lot out of the midst of the overthrow, when he overthrew the cities in the which Lot dwelt."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 30,
+      "text": "And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 31,
+      "text": "And the firstborn said unto the younger, Our father is old, and there is not a man in the earth to come in unto us after the manner of all the earth:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 32,
+      "text": "Come, let us make our father drink wine, and we will lie with him, that we may preserve seed of our father."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 33,
+      "text": "And they made their father drink wine that night: and the firstborn went in, and lay with her father; and he perceived not when she lay down, nor when she arose."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 34,
+      "text": "And it came to pass on the morrow, that the firstborn said unto the younger, Behold, I lay yesternight with my father: let us make him drink wine this night also; and go thou in, and lie with him, that we may preserve seed of our father."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 35,
+      "text": "And they made their father drink wine that night also: and the younger arose, and lay with him; and he perceived not when she lay down, nor when she arose."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 36,
+      "text": "Thus were both the daughters of Lot with child by their father."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 37,
+      "text": "And the first born bare a son, and called his name Moab: the same is the father of the Moabites unto this day."
+    },
+    {
+      "bookId": 1,
+      "chapter": 19,
+      "verse": 38,
+      "text": "And the younger, she also bare a son, and called his name Benammi: the same is the father of the children of Ammon unto this day."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 1,
+      "text": "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 2,
+      "text": "And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 3,
+      "text": "But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man's wife."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 4,
+      "text": "But Abimelech had not come near her: and he said, LORD, wilt thou slay also a righteous nation?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 5,
+      "text": "Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 6,
+      "text": "And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 7,
+      "text": "Now therefore restore the man his wife; for he is a prophet, and he shall pray for thee, and thou shalt live: and if thou restore her not, know thou that thou shalt surely die, thou, and all that are thine."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 8,
+      "text": "Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 9,
+      "text": "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 10,
+      "text": "And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 11,
+      "text": "And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife's sake."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 12,
+      "text": "And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 13,
+      "text": "And it came to pass, when God caused me to wander from my father's house, that I said unto her, This is thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He is my brother."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 14,
+      "text": "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave them unto Abraham, and restored him Sarah his wife."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 15,
+      "text": "And Abimelech said, Behold, my land is before thee: dwell where it pleaseth thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 16,
+      "text": "And unto Sarah he said, Behold, I have given thy brother a thousand pieces of silver: behold, he is to thee a covering of the eyes, unto all that are with thee, and with all other: thus she was reproved."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 17,
+      "text": "So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children."
+    },
+    {
+      "bookId": 1,
+      "chapter": 20,
+      "verse": 18,
+      "text": "For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 1,
+      "text": "And the LORD visited Sarah as he had said, and the LORD did unto Sarah as he had spoken."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 2,
+      "text": "For Sarah conceived, and bare Abraham a son in his old age, at the set time of which God had spoken to him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 3,
+      "text": "And Abraham called the name of his son that was born unto him, whom Sarah bare to him, Isaac."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 4,
+      "text": "And Abraham circumcised his son Isaac being eight days old, as God had commanded him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 5,
+      "text": "And Abraham was an hundred years old, when his son Isaac was born unto him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 6,
+      "text": "And Sarah said, God hath made me to laugh, so that all that hear will laugh with me."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 7,
+      "text": "And she said, Who would have said unto Abraham, that Sarah should have given children suck? for I have born him a son in his old age."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 8,
+      "text": "And the child grew, and was weaned: and Abraham made a great feast the same day that Isaac was weaned."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 9,
+      "text": "And Sarah saw the son of Hagar the Egyptian, which she had born unto Abraham, mocking."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 10,
+      "text": "Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 11,
+      "text": "And the thing was very grievous in Abraham's sight because of his son."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 12,
+      "text": "And God said unto Abraham, Let it not be grievous in thy sight because of the lad, and because of thy bondwoman; in all that Sarah hath said unto thee, hearken unto her voice; for in Isaac shall thy seed be called."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 13,
+      "text": "And also of the son of the bondwoman will I make a nation, because he is thy seed."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 14,
+      "text": "And Abraham rose up early in the morning, and took bread, and a bottle of water, and gave it unto Hagar, putting it on her shoulder, and the child, and sent her away: and she departed, and wandered in the wilderness of Beersheba."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 15,
+      "text": "And the water was spent in the bottle, and she cast the child under one of the shrubs."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 16,
+      "text": "And she went, and sat her down over against him a good way off, as it were a bow shot: for she said, Let me not see the death of the child. And she sat over against him, and lift up her voice, and wept."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 17,
+      "text": "And God heard the voice of the lad; and the angel of God called to Hagar out of heaven, and said unto her, What aileth thee, Hagar? fear not; for God hath heard the voice of the lad where he is."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 18,
+      "text": "Arise, lift up the lad, and hold him in thine hand; for I will make him a great nation."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 19,
+      "text": "And God opened her eyes, and she saw a well of water; and she went, and filled the bottle with water, and gave the lad drink."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 20,
+      "text": "And God was with the lad; and he grew, and dwelt in the wilderness, and became an archer."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 21,
+      "text": "And he dwelt in the wilderness of Paran: and his mother took him a wife out of the land of Egypt."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 22,
+      "text": "And it came to pass at that time, that Abimelech and Phichol the chief captain of his host spake unto Abraham, saying, God is with thee in all that thou doest:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 23,
+      "text": "Now therefore swear unto me here by God that thou wilt not deal falsely with me, nor with my son, nor with my son's son: but according to the kindness that I have done unto thee, thou shalt do unto me, and to the land wherein thou hast sojourned."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 24,
+      "text": "And Abraham said, I will swear."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 25,
+      "text": "And Abraham reproved Abimelech because of a well of water, which Abimelech's servants had violently taken away."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 26,
+      "text": "And Abimelech said, I wot not who hath done this thing; neither didst thou tell me, neither yet heard I of it, but to day."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 27,
+      "text": "And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 28,
+      "text": "And Abraham set seven ewe lambs of the flock by themselves."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 29,
+      "text": "And Abimelech said unto Abraham, What mean these seven ewe lambs which thou hast set by themselves?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 30,
+      "text": "And he said, For these seven ewe lambs shalt thou take of my hand, that they may be a witness unto me, that I have digged this well."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 31,
+      "text": "Wherefore he called that place Beersheba; because there they sware both of them."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 32,
+      "text": "Thus they made a covenant at Beersheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 33,
+      "text": "And Abraham planted a grove in Beersheba, and called there on the name of the LORD, the everlasting God."
+    },
+    {
+      "bookId": 1,
+      "chapter": 21,
+      "verse": 34,
+      "text": "And Abraham sojourned in the Philistines' land many days."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 1,
+      "text": "And it came to pass after these things, that God did tempt Abraham, and said unto him, Abraham: and he said, Behold, here I am."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 2,
+      "text": "And he said, Take now thy son, thine only son Isaac, whom thou lovest, and get thee into the land of Moriah; and offer him there for a burnt offering upon one of the mountains which I will tell thee of."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 3,
+      "text": "And Abraham rose up early in the morning, and saddled his ass, and took two of his young men with him, and Isaac his son, and clave the wood for the burnt offering, and rose up, and went unto the place of which God had told him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 4,
+      "text": "Then on the third day Abraham lifted up his eyes, and saw the place afar off."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 5,
+      "text": "And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 6,
+      "text": "And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 7,
+      "text": "And Isaac spake unto Abraham his father, and said, My father: and he said, Here am I, my son. And he said, Behold the fire and the wood: but where is the lamb for a burnt offering?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 8,
+      "text": "And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 9,
+      "text": "And they came to the place which God had told him of; and Abraham built an altar there, and laid the wood in order, and bound Isaac his son, and laid him on the altar upon the wood."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 10,
+      "text": "And Abraham stretched forth his hand, and took the knife to slay his son."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 11,
+      "text": "And the angel of the LORD called unto him out of heaven, and said, Abraham, Abraham: and he said, Here am I."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 12,
+      "text": "And he said, Lay not thine hand upon the lad, neither do thou any thing unto him: for now I know that thou fearest God, seeing thou hast not withheld thy son, thine only son from me."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 13,
+      "text": "And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 14,
+      "text": "And Abraham called the name of that place Jehovahjireh: as it is said to this day, In the mount of the LORD it shall be seen."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 15,
+      "text": "And the angel of the LORD called unto Abraham out of heaven the second time,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 16,
+      "text": "And said, By myself have I sworn, saith the LORD, for because thou hast done this thing, and hast not withheld thy son, thine only son:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 17,
+      "text": "That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 18,
+      "text": "And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 19,
+      "text": "So Abraham returned unto his young men, and they rose up and went together to Beersheba; and Abraham dwelt at Beersheba."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 20,
+      "text": "And it came to pass after these things, that it was told Abraham, saying, Behold, Milcah, she hath also born children unto thy brother Nahor;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 21,
+      "text": "Huz his firstborn, and Buz his brother, and Kemuel the father of Aram,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 22,
+      "text": "And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 23,
+      "text": "And Bethuel begat Rebekah: these eight Milcah did bear to Nahor, Abraham's brother."
+    },
+    {
+      "bookId": 1,
+      "chapter": 22,
+      "verse": 24,
+      "text": "And his concubine, whose name was Reumah, she bare also Tebah, and Gaham, and Thahash, and Maachah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 1,
+      "text": "And Sarah was an hundred and seven and twenty years old: these were the years of the life of Sarah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 2,
+      "text": "And Sarah died in Kirjatharba; the same is Hebron in the land of Canaan: and Abraham came to mourn for Sarah, and to weep for her."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 3,
+      "text": "And Abraham stood up from before his dead, and spake unto the sons of Heth, saying,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 4,
+      "text": "I am a stranger and a sojourner with you: give me a possession of a buryingplace with you, that I may bury my dead out of my sight."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 5,
+      "text": "And the children of Heth answered Abraham, saying unto him,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 6,
+      "text": "Hear us, my lord: thou art a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 7,
+      "text": "And Abraham stood up, and bowed himself to the people of the land, even to the children of Heth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 8,
+      "text": "And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and intreat for me to Ephron the son of Zohar,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 9,
+      "text": "That he may give me the cave of Machpelah, which he hath, which is in the end of his field; for as much money as it is worth he shall give it me for a possession of a buryingplace amongst you."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 10,
+      "text": "And Ephron dwelt among the children of Heth: and Ephron the Hittite answered Abraham in the audience of the children of Heth, even of all that went in at the gate of his city, saying,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 11,
+      "text": "Nay, my lord, hear me: the field give I thee, and the cave that is therein, I give it thee; in the presence of the sons of my people give I it thee: bury thy dead."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 12,
+      "text": "And Abraham bowed down himself before the people of the land."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 13,
+      "text": "And he spake unto Ephron in the audience of the people of the land, saying, But if thou wilt give it, I pray thee, hear me: I will give thee money for the field; take it of me, and I will bury my dead there."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 14,
+      "text": "And Ephron answered Abraham, saying unto him,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 15,
+      "text": "My lord, hearken unto me: the land is worth four hundred shekels of silver; what is that betwixt me and thee? bury therefore thy dead."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 16,
+      "text": "And Abraham hearkened unto Ephron; and Abraham weighed to Ephron the silver, which he had named in the audience of the sons of Heth, four hundred shekels of silver, current money with the merchant."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 17,
+      "text": "And the field of Ephron which was in Machpelah, which was before Mamre, the field, and the cave which was therein, and all the trees that were in the field, that were in all the borders round about, were made sure"
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 18,
+      "text": "Unto Abraham for a possession in the presence of the children of Heth, before all that went in at the gate of his city."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 19,
+      "text": "And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah before Mamre: the same is Hebron in the land of Canaan."
+    },
+    {
+      "bookId": 1,
+      "chapter": 23,
+      "verse": 20,
+      "text": "And the field, and the cave that is therein, were made sure unto Abraham for a possession of a buryingplace by the sons of Heth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 1,
+      "text": "And Abraham was old, and well stricken in age: and the LORD had blessed Abraham in all things."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 2,
+      "text": "And Abraham said unto his eldest servant of his house, that ruled over all that he had, Put, I pray thee, thy hand under my thigh:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 3,
+      "text": "And I will make thee swear by the LORD, the God of heaven, and the God of the earth, that thou shalt not take a wife unto my son of the daughters of the Canaanites, among whom I dwell:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 4,
+      "text": "But thou shalt go unto my country, and to my kindred, and take a wife unto my son Isaac."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 5,
+      "text": "And the servant said unto him, Peradventure the woman will not be willing to follow me unto this land: must I needs bring thy son again unto the land from whence thou camest?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 6,
+      "text": "And Abraham said unto him, Beware thou that thou bring not my son thither again."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 7,
+      "text": "The LORD God of heaven, which took me from my father's house, and from the land of my kindred, and which spake unto me, and that sware unto me, saying, Unto thy seed will I give this land; he shall send his angel before thee, and thou shalt take a wife unto my son from thence."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 8,
+      "text": "And if the woman will not be willing to follow thee, then thou shalt be clear from this my oath: only bring not my son thither again."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 9,
+      "text": "And the servant put his hand under the thigh of Abraham his master, and sware to him concerning that matter."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 10,
+      "text": "And the servant took ten camels of the camels of his master, and departed; for all the goods of his master were in his hand: and he arose, and went to Mesopotamia, unto the city of Nahor."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 11,
+      "text": "And he made his camels to kneel down without the city by a well of water at the time of the evening, even the time that women go out to draw water."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 12,
+      "text": "And he said O LORD God of my master Abraham, I pray thee, send me good speed this day, and shew kindness unto my master Abraham."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 13,
+      "text": "Behold, I stand here by the well of water; and the daughters of the men of the city come out to draw water:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 14,
+      "text": "And let it come to pass, that the damsel to whom I shall say, Let down thy pitcher, I pray thee, that I may drink; and she shall say, Drink, and I will give thy camels drink also: let the same be she that thou hast appointed for thy servant Isaac; and thereby shall I know that thou hast shewed kindness unto my master."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 15,
+      "text": "And it came to pass, before he had done speaking, that, behold, Rebekah came out, who was born to Bethuel, son of Milcah, the wife of Nahor, Abraham's brother, with her pitcher upon her shoulder."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 16,
+      "text": "And the damsel was very fair to look upon, a virgin, neither had any man known her: and she went down to the well, and filled her pitcher, and came up."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 17,
+      "text": "And the servant ran to meet her, and said, Let me, I pray thee, drink a little water of thy pitcher."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 18,
+      "text": "And she said, Drink, my lord: and she hasted, and let down her pitcher upon her hand, and gave him drink."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 19,
+      "text": "And when she had done giving him drink, she said, I will draw water for thy camels also, until they have done drinking."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 20,
+      "text": "And she hasted, and emptied her pitcher into the trough, and ran again unto the well to draw water, and drew for all his camels."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 21,
+      "text": "And the man wondering at her held his peace, to wit whether the LORD had made his journey prosperous or not."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 22,
+      "text": "And it came to pass, as the camels had done drinking, that the man took a golden earring of half a shekel weight, and two bracelets for her hands of ten shekels weight of gold;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 23,
+      "text": "And said, Whose daughter art thou? tell me, I pray thee: is there room in thy father's house for us to lodge in?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 24,
+      "text": "And she said unto him, I am the daughter of Bethuel the son of Milcah, which she bare unto Nahor."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 25,
+      "text": "She said moreover unto him, We have both straw and provender enough, and room to lodge in."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 26,
+      "text": "And the man bowed down his head, and worshipped the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 27,
+      "text": "And he said, Blessed be the LORD God of my master Abraham, who hath not left destitute my master of his mercy and his truth: I being in the way, the LORD led me to the house of my master's brethren."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 28,
+      "text": "And the damsel ran, and told them of her mother's house these things."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 29,
+      "text": "And Rebekah had a brother, and his name was Laban: and Laban ran out unto the man, unto the well."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 30,
+      "text": "And it came to pass, when he saw the earring and bracelets upon his sister's hands, and when he heard the words of Rebekah his sister, saying, Thus spake the man unto me; that he came unto the man; and, behold, he stood by the camels at the well."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 31,
+      "text": "And he said, Come in, thou blessed of the LORD; wherefore standest thou without? for I have prepared the house, and room for the camels."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 32,
+      "text": "And the man came into the house: and he ungirded his camels, and gave straw and provender for the camels, and water to wash his feet, and the men's feet that were with him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 33,
+      "text": "And there was set meat before him to eat: but he said, I will not eat, until I have told mine errand. And he said, Speak on."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 34,
+      "text": "And he said, I am Abraham's servant."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 35,
+      "text": "And the LORD hath blessed my master greatly; and he is become great: and he hath given him flocks, and herds, and silver, and gold, and menservants, and maidservants, and camels, and asses."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 36,
+      "text": "And Sarah my master's wife bare a son to my master when she was old: and unto him hath he given all that he hath."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 37,
+      "text": "And my master made me swear, saying, Thou shalt not take a wife to my son of the daughters of the Canaanites, in whose land I dwell:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 38,
+      "text": "But thou shalt go unto my father's house, and to my kindred, and take a wife unto my son."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 39,
+      "text": "And I said unto my master, Peradventure the woman will not follow me."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 40,
+      "text": "And he said unto me, The LORD, before whom I walk, will send his angel with thee, and prosper thy way; and thou shalt take a wife for my son of my kindred, and of my father's house:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 41,
+      "text": "Then shalt thou be clear from this my oath, when thou comest to my kindred; and if they give not thee one, thou shalt be clear from my oath."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 42,
+      "text": "And I came this day unto the well, and said, O LORD God of my master Abraham, if now thou do prosper my way which I go:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 43,
+      "text": "Behold, I stand by the well of water; and it shall come to pass, that when the virgin cometh forth to draw water, and I say to her, Give me, I pray thee, a little water of thy pitcher to drink;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 44,
+      "text": "And she say to me, Both drink thou, and I will also draw for thy camels: let the same be the woman whom the LORD hath appointed out for my master's son."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 45,
+      "text": "And before I had done speaking in mine heart, behold, Rebekah came forth with her pitcher on her shoulder; and she went down unto the well, and drew water: and I said unto her, Let me drink, I pray thee."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 46,
+      "text": "And she made haste, and let down her pitcher from her shoulder, and said, Drink, and I will give thy camels drink also: so I drank, and she made the camels drink also."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 47,
+      "text": "And I asked her, and said, Whose daughter art thou? And she said, the daughter of Bethuel, Nahor's son, whom Milcah bare unto him: and I put the earring upon her face, and the bracelets upon her hands."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 48,
+      "text": "And I bowed down my head, and worshipped the LORD, and blessed the LORD God of my master Abraham, which had led me in the right way to take my master's brother's daughter unto his son."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 49,
+      "text": "And now if ye will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 50,
+      "text": "Then Laban and Bethuel answered and said, The thing proceedeth from the LORD: we cannot speak unto thee bad or good."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 51,
+      "text": "Behold, Rebekah is before thee, take her, and go, and let her be thy master's son's wife, as the LORD hath spoken."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 52,
+      "text": "And it came to pass, that, when Abraham's servant heard their words, he worshipped the LORD, bowing himself to the earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 53,
+      "text": "And the servant brought forth jewels of silver, and jewels of gold, and raiment, and gave them to Rebekah: he gave also to her brother and to her mother precious things."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 54,
+      "text": "And they did eat and drink, he and the men that were with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 55,
+      "text": "And her brother and her mother said, Let the damsel abide with us a few days, at the least ten; after that she shall go."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 56,
+      "text": "And he said unto them, Hinder me not, seeing the LORD hath prospered my way; send me away that I may go to my master."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 57,
+      "text": "And they said, We will call the damsel, and enquire at her mouth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 58,
+      "text": "And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 59,
+      "text": "And they sent away Rebekah their sister, and her nurse, and Abraham's servant, and his men."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 60,
+      "text": "And they blessed Rebekah, and said unto her, Thou art our sister, be thou the mother of thousands of millions, and let thy seed possess the gate of those which hate them."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 61,
+      "text": "And Rebekah arose, and her damsels, and they rode upon the camels, and followed the man: and the servant took Rebekah, and went his way."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 62,
+      "text": "And Isaac came from the way of the well Lahairoi; for he dwelt in the south country."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 63,
+      "text": "And Isaac went out to meditate in the field at the eventide: and he lifted up his eyes, and saw, and, behold, the camels were coming."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 64,
+      "text": "And Rebekah lifted up her eyes, and when she saw Isaac, she lighted off the camel."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 65,
+      "text": "For she had said unto the servant, What man is this that walketh in the field to meet us? And the servant had said, It is my master: therefore she took a vail, and covered herself."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 66,
+      "text": "And the servant told Isaac all things that he had done."
+    },
+    {
+      "bookId": 1,
+      "chapter": 24,
+      "verse": 67,
+      "text": "And Isaac brought her into his mother Sarah's tent, and took Rebekah, and she became his wife; and he loved her: and Isaac was comforted after his mother's death."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 1,
+      "text": "Then again Abraham took a wife, and her name was Keturah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 2,
+      "text": "And she bare him Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 3,
+      "text": "And Jokshan begat Sheba, and Dedan. And the sons of Dedan were Asshurim, and Letushim, and Leummim."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 4,
+      "text": "And the sons of Midian; Ephah, and Epher, and Hanoch, and Abidah, and Eldaah. All these were the children of Keturah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 5,
+      "text": "And Abraham gave all that he had unto Isaac."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 6,
+      "text": "But unto the sons of the concubines, which Abraham had, Abraham gave gifts, and sent them away from Isaac his son, while he yet lived, eastward, unto the east country."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 7,
+      "text": "And these are the days of the years of Abraham's life which he lived, an hundred threescore and fifteen years."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 8,
+      "text": "Then Abraham gave up the ghost, and died in a good old age, an old man, and full of years; and was gathered to his people."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 9,
+      "text": "And his sons Isaac and Ishmael buried him in the cave of Machpelah, in the field of Ephron the son of Zohar the Hittite, which is before Mamre;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 10,
+      "text": "The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 11,
+      "text": "And it came to pass after the death of Abraham, that God blessed his son Isaac; and Isaac dwelt by the well Lahairoi."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 12,
+      "text": "Now these are the generations of Ishmael, Abraham's son, whom Hagar the Egyptian, Sarah's handmaid, bare unto Abraham:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 13,
+      "text": "And these are the names of the sons of Ishmael, by their names, according to their generations: the firstborn of Ishmael, Nebajoth; and Kedar, and Adbeel, and Mibsam,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 14,
+      "text": "And Mishma, and Dumah, and Massa,"
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 15,
+      "text": "Hadar, and Tema, Jetur, Naphish, and Kedemah:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 16,
+      "text": "These are the sons of Ishmael, and these are their names, by their towns, and by their castles; twelve princes according to their nations."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 17,
+      "text": "And these are the years of the life of Ishmael, an hundred and thirty and seven years: and he gave up the ghost and died; and was gathered unto his people."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 18,
+      "text": "And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 19,
+      "text": "And these are the generations of Isaac, Abraham's son: Abraham begat Isaac:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 20,
+      "text": "And Isaac was forty years old when he took Rebekah to wife, the daughter of Bethuel the Syrian of Padanaram, the sister to Laban the Syrian."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 21,
+      "text": "And Isaac intreated the LORD for his wife, because she was barren: and the LORD was intreated of him, and Rebekah his wife conceived."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 22,
+      "text": "And the children struggled together within her; and she said, If it be so, why am I thus? And she went to enquire of the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 23,
+      "text": "And the LORD said unto her, Two nations are in thy womb, and two manner of people shall be separated from thy bowels; and the one people shall be stronger than the other people; and the elder shall serve the younger."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 24,
+      "text": "And when her days to be delivered were fulfilled, behold, there were twins in her womb."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 25,
+      "text": "And the first came out red, all over like an hairy garment; and they called his name Esau."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 26,
+      "text": "And after that came his brother out, and his hand took hold on Esau's heel; and his name was called Jacob: and Isaac was threescore years old when she bare them."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 27,
+      "text": "And the boys grew: and Esau was a cunning hunter, a man of the field; and Jacob was a plain man, dwelling in tents."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 28,
+      "text": "And Isaac loved Esau, because he did eat of his venison: but Rebekah loved Jacob."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 29,
+      "text": "And Jacob sod pottage: and Esau came from the field, and he was faint:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 30,
+      "text": "And Esau said to Jacob, Feed me, I pray thee, with that same red pottage; for I am faint: therefore was his name called Edom."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 31,
+      "text": "And Jacob said, Sell me this day thy birthright."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 32,
+      "text": "And Esau said, Behold, I am at the point to die: and what profit shall this birthright do to me?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 33,
+      "text": "And Jacob said, Swear to me this day; and he sware unto him: and he sold his birthright unto Jacob."
+    },
+    {
+      "bookId": 1,
+      "chapter": 25,
+      "verse": 34,
+      "text": "Then Jacob gave Esau bread and pottage of lentiles; and he did eat and drink, and rose up, and went his way: thus Esau despised his birthright."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 1,
+      "text": "And there was a famine in the land, beside the first famine that was in the days of Abraham. And Isaac went unto Abimelech king of the Philistines unto Gerar."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 2,
+      "text": "And the LORD appeared unto him, and said, Go not down into Egypt; dwell in the land which I shall tell thee of:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 3,
+      "text": "Sojourn in this land, and I will be with thee, and will bless thee; for unto thee, and unto thy seed, I will give all these countries, and I will perform the oath which I sware unto Abraham thy father;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 4,
+      "text": "And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 5,
+      "text": "Because that Abraham obeyed my voice, and kept my charge, my commandments, my statutes, and my laws."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 6,
+      "text": "And Isaac dwelt in Gerar:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 7,
+      "text": "And the men of the place asked him of his wife; and he said, She is my sister: for he feared to say, She is my wife; lest, said he, the men of the place should kill me for Rebekah; because she was fair to look upon."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 8,
+      "text": "And it came to pass, when he had been there a long time, that Abimelech king of the Philistines looked out at a window, and saw, and, behold, Isaac was sporting with Rebekah his wife."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 9,
+      "text": "And Abimelech called Isaac, and said, Behold, of a surety she is thy wife; and how saidst thou, She is my sister? And Isaac said unto him, Because I said, Lest I die for her."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 10,
+      "text": "And Abimelech said, What is this thou hast done unto us? one of the people might lightly have lien with thy wife, and thou shouldest have brought guiltiness upon us."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 11,
+      "text": "And Abimelech charged all his people, saying, He that toucheth this man or his wife shall surely be put to death."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 12,
+      "text": "Then Isaac sowed in that land, and received in the same year an hundredfold: and the LORD blessed him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 13,
+      "text": "And the man waxed great, and went forward, and grew until he became very great:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 14,
+      "text": "For he had possession of flocks, and possession of herds, and great store of servants: and the Philistines envied him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 15,
+      "text": "For all the wells which his father's servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 16,
+      "text": "And Abimelech said unto Isaac, Go from us; for thou art much mightier than we."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 17,
+      "text": "And Isaac departed thence, and pitched his tent in the valley of Gerar, and dwelt there."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 18,
+      "text": "And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the Philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 19,
+      "text": "And Isaac's servants digged in the valley, and found there a well of springing water."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 20,
+      "text": "And the herdmen of Gerar did strive with Isaac's herdmen, saying, The water is ours: and he called the name of the well Esek; because they strove with him."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 21,
+      "text": "And they digged another well, and strove for that also: and he called the name of it Sitnah."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 22,
+      "text": "And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the LORD hath made room for us, and we shall be fruitful in the land."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 23,
+      "text": "And he went up from thence to Beersheba."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 24,
+      "text": "And the LORD appeared unto him the same night, and said, I am the God of Abraham thy father: fear not, for I am with thee, and will bless thee, and multiply thy seed for my servant Abraham's sake."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 25,
+      "text": "And he builded an altar there, and called upon the name of the LORD, and pitched his tent there: and there Isaac's servants digged a well."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 26,
+      "text": "Then Abimelech went to him from Gerar, and Ahuzzath one of his friends, and Phichol the chief captain of his army."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 27,
+      "text": "And Isaac said unto them, Wherefore come ye to me, seeing ye hate me, and have sent me away from you?"
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 28,
+      "text": "And they said, We saw certainly that the LORD was with thee: and we said, Let there be now an oath betwixt us, even betwixt us and thee, and let us make a covenant with thee;"
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 29,
+      "text": "That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of the LORD."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 30,
+      "text": "And he made them a feast, and they did eat and drink."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 31,
+      "text": "And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 32,
+      "text": "And it came to pass the same day, that Isaac's servants came, and told him concerning the well which they had digged, and said unto him, We have found water."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 33,
+      "text": "And he called it Shebah: therefore the name of the city is Beersheba unto this day."
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 34,
+      "text": "And Esau was forty years old when he took to wife Judith the daughter of Beeri the Hittite, and Bashemath the daughter of Elon the Hittite:"
+    },
+    {
+      "bookId": 1,
+      "chapter": 26,
+      "verse": 35,
+      "text": "Which were a grief of mind unto Isaac and to Rebekah."
+    },
+    {
+      "bookId": 19,
+      "chapter": 23,
+      "verse": 1,
+      "text": "The LORD is my shepherd; I shall not want."
+    },
+    {
+      "bookId": 19,
+      "chapter": 23,
+      "verse": 2,
+      "text": "He maketh me to lie down in green pastures: he leadeth me beside the still waters."
+    },
+    {
+      "bookId": 19,
+      "chapter": 23,
+      "verse": 3,
+      "text": "He restoreth my soul: he leadeth me in the paths of righteousness for his name's sake."
+    },
+    {
+      "bookId": 19,
+      "chapter": 23,
+      "verse": 4,
+      "text": "Yea, though I walk through the valley of the shadow of death, I will fear no evil: for thou art with me; thy rod and thy staff they comfort me."
+    },
+    {
+      "bookId": 19,
+      "chapter": 23,
+      "verse": 5,
+      "text": "Thou preparest a table before me in the presence of mine enemies: thou anointest my head with oil; my cup runneth over."
+    },
+    {
+      "bookId": 19,
+      "chapter": 23,
+      "verse": 6,
+      "text": "Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 1,
+      "text": "There was a man of the Pharisees, named Nicodemus, a ruler of the Jews:"
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 2,
+      "text": "The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 3,
+      "text": "Jesus answered and said unto him, Verily, verily, I say unto thee, Except a man be born again, he cannot see the kingdom of God."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 4,
+      "text": "Nicodemus saith unto him, How can a man be born when he is old? can he enter the second time into his mother's womb, and be born?"
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 5,
+      "text": "Jesus answered, Verily, verily, I say unto thee, Except a man be born of water and of the Spirit, he cannot enter into the kingdom of God."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 6,
+      "text": "That which is born of the flesh is flesh; and that which is born of the Spirit is spirit."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 7,
+      "text": "Marvel not that I said unto thee, Ye must be born again."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 8,
+      "text": "The wind bloweth where it listeth, and thou hearest the sound thereof, but canst not tell whence it cometh, and whither it goeth: so is every one that is born of the Spirit."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 9,
+      "text": "Nicodemus answered and said unto him, How can these things be?"
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 10,
+      "text": "Jesus answered and said unto him, Art thou a master of Israel, and knowest not these things?"
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 11,
+      "text": "Verily, verily, I say unto thee, We speak that we do know, and testify that we have seen; and ye receive not our witness."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 12,
+      "text": "If I have told you earthly things, and ye believe not, how shall ye believe, if I tell you of heavenly things?"
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 13,
+      "text": "And no man hath ascended up to heaven, but he that came down from heaven, even the Son of man which is in heaven."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 14,
+      "text": "And as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up:"
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 15,
+      "text": "That whosoever believeth in him should not perish, but have eternal life."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 16,
+      "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 17,
+      "text": "For God sent not his Son into the world to condemn the world; but that the world through him might be saved."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 18,
+      "text": "He that believeth on him is not condemned: but he that believeth not is condemned already, because he hath not believed in the name of the only begotten Son of God."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 19,
+      "text": "And this is the condemnation, that light is come into the world, and men loved darkness rather than light, because their deeds were evil."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 20,
+      "text": "For every one that doeth evil hateth the light, neither cometh to the light, lest his deeds should be reproved."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 21,
+      "text": "But he that doeth truth cometh to the light, that his deeds may be made manifest, that they are wrought in God."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 22,
+      "text": "After these things came Jesus and his disciples into the land of Judaea; and there he tarried with them, and baptized."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 23,
+      "text": "And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 24,
+      "text": "For John was not yet cast into prison."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 25,
+      "text": "Then there arose a question between some of John's disciples and the Jews about purifying."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 26,
+      "text": "And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 27,
+      "text": "John answered and said, A man can receive nothing, except it be given him from heaven."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 28,
+      "text": "Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 29,
+      "text": "He that hath the bride is the bridegroom: but the friend of the bridegroom, which standeth and heareth him, rejoiceth greatly because of the bridegroom's voice: this my joy therefore is fulfilled."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 30,
+      "text": "He must increase, but I must decrease."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 31,
+      "text": "He that cometh from above is above all: he that is of the earth is earthly, and speaketh of the earth: he that cometh from heaven is above all."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 32,
+      "text": "And what he hath seen and heard, that he testifieth; and no man receiveth his testimony."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 33,
+      "text": "He that hath received his testimony hath set to his seal that God is true."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 34,
+      "text": "For he whom God hath sent speaketh the words of God: for God giveth not the Spirit by measure unto him."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 35,
+      "text": "The Father loveth the Son, and hath given all things into his hand."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 36,
+      "text": "He that believeth on the Son hath everlasting life: and he that believeth not the Son shall not see life; but the wrath of God abideth on him."
+    }
+  ]
+}

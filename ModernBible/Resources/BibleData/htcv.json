@@ -1,0 +1,480 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Jenèz",
+      "abbreviation": "Gen",
+      "testament": "OT",
+      "chapterCount": 50
+    },
+    {
+      "id": 2,
+      "name": "Egzòd",
+      "abbreviation": "Exo",
+      "testament": "OT",
+      "chapterCount": 40
+    },
+    {
+      "id": 3,
+      "name": "Levitik",
+      "abbreviation": "Lev",
+      "testament": "OT",
+      "chapterCount": 27
+    },
+    {
+      "id": 4,
+      "name": "Resansman",
+      "abbreviation": "Num",
+      "testament": "OT",
+      "chapterCount": 36
+    },
+    {
+      "id": 5,
+      "name": "Detewonòm",
+      "abbreviation": "Deu",
+      "testament": "OT",
+      "chapterCount": 34
+    },
+    {
+      "id": 6,
+      "name": "Jozye",
+      "abbreviation": "Jos",
+      "testament": "OT",
+      "chapterCount": 24
+    },
+    {
+      "id": 7,
+      "name": "Jij",
+      "abbreviation": "Jdg",
+      "testament": "OT",
+      "chapterCount": 21
+    },
+    {
+      "id": 8,
+      "name": "Wout",
+      "abbreviation": "Rut",
+      "testament": "OT",
+      "chapterCount": 4
+    },
+    {
+      "id": 9,
+      "name": "1 Samyèl",
+      "abbreviation": "1Sa",
+      "testament": "OT",
+      "chapterCount": 31
+    },
+    {
+      "id": 10,
+      "name": "2 Samyèl",
+      "abbreviation": "2Sa",
+      "testament": "OT",
+      "chapterCount": 24
+    },
+    {
+      "id": 11,
+      "name": "1 Wa",
+      "abbreviation": "1Ki",
+      "testament": "OT",
+      "chapterCount": 22
+    },
+    {
+      "id": 12,
+      "name": "2 Wa",
+      "abbreviation": "2Ki",
+      "testament": "OT",
+      "chapterCount": 25
+    },
+    {
+      "id": 13,
+      "name": "1 Istwa",
+      "abbreviation": "1Ch",
+      "testament": "OT",
+      "chapterCount": 29
+    },
+    {
+      "id": 14,
+      "name": "2 Istwa",
+      "abbreviation": "2Ch",
+      "testament": "OT",
+      "chapterCount": 36
+    },
+    {
+      "id": 15,
+      "name": "Esdras",
+      "abbreviation": "Ezr",
+      "testament": "OT",
+      "chapterCount": 10
+    },
+    {
+      "id": 16,
+      "name": "Neyemi",
+      "abbreviation": "Neh",
+      "testament": "OT",
+      "chapterCount": 13
+    },
+    {
+      "id": 17,
+      "name": "Estè",
+      "abbreviation": "Est",
+      "testament": "OT",
+      "chapterCount": 10
+    },
+    {
+      "id": 18,
+      "name": "Jòb",
+      "abbreviation": "Job",
+      "testament": "OT",
+      "chapterCount": 42
+    },
+    {
+      "id": 19,
+      "name": "Sòm",
+      "abbreviation": "Psa",
+      "testament": "OT",
+      "chapterCount": 150
+    },
+    {
+      "id": 20,
+      "name": "Pwovèb",
+      "abbreviation": "Pro",
+      "testament": "OT",
+      "chapterCount": 31
+    },
+    {
+      "id": 21,
+      "name": "Eklezyas",
+      "abbreviation": "Ecc",
+      "testament": "OT",
+      "chapterCount": 12
+    },
+    {
+      "id": 22,
+      "name": "Chan Salomon",
+      "abbreviation": "Sng",
+      "testament": "OT",
+      "chapterCount": 8
+    },
+    {
+      "id": 23,
+      "name": "Ezayi",
+      "abbreviation": "Isa",
+      "testament": "OT",
+      "chapterCount": 66
+    },
+    {
+      "id": 24,
+      "name": "Jeremi",
+      "abbreviation": "Jer",
+      "testament": "OT",
+      "chapterCount": 52
+    },
+    {
+      "id": 25,
+      "name": "Rèl Jeremi",
+      "abbreviation": "Lam",
+      "testament": "OT",
+      "chapterCount": 5
+    },
+    {
+      "id": 26,
+      "name": "Ezekyèl",
+      "abbreviation": "Eze",
+      "testament": "OT",
+      "chapterCount": 48
+    },
+    {
+      "id": 27,
+      "name": "Danyèl",
+      "abbreviation": "Dan",
+      "testament": "OT",
+      "chapterCount": 12
+    },
+    {
+      "id": 28,
+      "name": "Oze",
+      "abbreviation": "Hos",
+      "testament": "OT",
+      "chapterCount": 14
+    },
+    {
+      "id": 29,
+      "name": "Jowèl",
+      "abbreviation": "Joe",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 30,
+      "name": "Amòs",
+      "abbreviation": "Amo",
+      "testament": "OT",
+      "chapterCount": 9
+    },
+    {
+      "id": 31,
+      "name": "Obadya",
+      "abbreviation": "Oba",
+      "testament": "OT",
+      "chapterCount": 1
+    },
+    {
+      "id": 32,
+      "name": "Jonas",
+      "abbreviation": "Jon",
+      "testament": "OT",
+      "chapterCount": 4
+    },
+    {
+      "id": 33,
+      "name": "Miche",
+      "abbreviation": "Mic",
+      "testament": "OT",
+      "chapterCount": 7
+    },
+    {
+      "id": 34,
+      "name": "Naowòm",
+      "abbreviation": "Nah",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 35,
+      "name": "Abakouk",
+      "abbreviation": "Hab",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 36,
+      "name": "Sofoni",
+      "abbreviation": "Zep",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 37,
+      "name": "Aje",
+      "abbreviation": "Hag",
+      "testament": "OT",
+      "chapterCount": 2
+    },
+    {
+      "id": 38,
+      "name": "Zakari",
+      "abbreviation": "Zec",
+      "testament": "OT",
+      "chapterCount": 14
+    },
+    {
+      "id": 39,
+      "name": "Malachi",
+      "abbreviation": "Mal",
+      "testament": "OT",
+      "chapterCount": 4
+    },
+    {
+      "id": 40,
+      "name": "Matye",
+      "abbreviation": "Mat",
+      "testament": "NT",
+      "chapterCount": 28
+    },
+    {
+      "id": 41,
+      "name": "Mak",
+      "abbreviation": "Mrk",
+      "testament": "NT",
+      "chapterCount": 16
+    },
+    {
+      "id": 42,
+      "name": "Lik",
+      "abbreviation": "Luk",
+      "testament": "NT",
+      "chapterCount": 24
+    },
+    {
+      "id": 43,
+      "name": "Jan",
+      "abbreviation": "Jhn",
+      "testament": "NT",
+      "chapterCount": 21
+    },
+    {
+      "id": 44,
+      "name": "Travay Apòt yo",
+      "abbreviation": "Act",
+      "testament": "NT",
+      "chapterCount": 28
+    },
+    {
+      "id": 45,
+      "name": "Women",
+      "abbreviation": "Rom",
+      "testament": "NT",
+      "chapterCount": 16
+    },
+    {
+      "id": 46,
+      "name": "1 Korentyen",
+      "abbreviation": "1Co",
+      "testament": "NT",
+      "chapterCount": 16
+    },
+    {
+      "id": 47,
+      "name": "2 Korentyen",
+      "abbreviation": "2Co",
+      "testament": "NT",
+      "chapterCount": 13
+    },
+    {
+      "id": 48,
+      "name": "Galasi",
+      "abbreviation": "Gal",
+      "testament": "NT",
+      "chapterCount": 6
+    },
+    {
+      "id": 49,
+      "name": "Efezyen",
+      "abbreviation": "Eph",
+      "testament": "NT",
+      "chapterCount": 6
+    },
+    {
+      "id": 50,
+      "name": "Filipyen",
+      "abbreviation": "Php",
+      "testament": "NT",
+      "chapterCount": 4
+    },
+    {
+      "id": 51,
+      "name": "Kolosyen",
+      "abbreviation": "Col",
+      "testament": "NT",
+      "chapterCount": 4
+    },
+    {
+      "id": 52,
+      "name": "1 Tesalonisyen",
+      "abbreviation": "1Th",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 53,
+      "name": "2 Tesalonisyen",
+      "abbreviation": "2Th",
+      "testament": "NT",
+      "chapterCount": 3
+    },
+    {
+      "id": 54,
+      "name": "1 Timote",
+      "abbreviation": "1Ti",
+      "testament": "NT",
+      "chapterCount": 6
+    },
+    {
+      "id": 55,
+      "name": "2 Timote",
+      "abbreviation": "2Ti",
+      "testament": "NT",
+      "chapterCount": 4
+    },
+    {
+      "id": 56,
+      "name": "Tit",
+      "abbreviation": "Tit",
+      "testament": "NT",
+      "chapterCount": 3
+    },
+    {
+      "id": 57,
+      "name": "Filemon",
+      "abbreviation": "Phm",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 58,
+      "name": "Ebre",
+      "abbreviation": "Heb",
+      "testament": "NT",
+      "chapterCount": 13
+    },
+    {
+      "id": 59,
+      "name": "Jak",
+      "abbreviation": "Jas",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 60,
+      "name": "1 Pyè",
+      "abbreviation": "1Pe",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 61,
+      "name": "2 Pyè",
+      "abbreviation": "2Pe",
+      "testament": "NT",
+      "chapterCount": 3
+    },
+    {
+      "id": 62,
+      "name": "1 Jan",
+      "abbreviation": "1Jn",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 63,
+      "name": "2 Jan",
+      "abbreviation": "2Jn",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 64,
+      "name": "3 Jan",
+      "abbreviation": "3Jn",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 65,
+      "name": "Jid",
+      "abbreviation": "Jud",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 66,
+      "name": "Apokalis",
+      "abbreviation": "Rev",
+      "testament": "NT",
+      "chapterCount": 22
+    }
+  ],
+  "verses": [
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 1,
+      "text": "[PLACEHOLDER — replace with verified Haitian Creole text from a licensed source]"
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 16,
+      "text": "[PLACEHOLDER — replace with verified Haitian Creole text from a licensed source]"
+    }
+  ]
+}

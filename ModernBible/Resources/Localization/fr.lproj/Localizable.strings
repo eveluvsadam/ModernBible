@@ -1,0 +1,98 @@
+/* Onglets */
+"tab.read" = "Lire";
+"tab.search" = "Rechercher";
+"tab.plans" = "Plans";
+"tab.prayer" = "Prière";
+"tab.more" = "Plus";
+
+/* Menu Plus */
+"more.bookmarks" = "Signets";
+"more.notes" = "Notes";
+"more.history" = "Historique";
+"more.study" = "Étude";
+"more.settings" = "Réglages";
+
+/* Intégration */
+"onboarding.welcome.title" = "Bienvenue sur ModernBible";
+"onboarding.welcome.subtitle" = "Un espace calme et paisible pour lire, étudier et méditer les Écritures — entièrement sans publicité.";
+"onboarding.language.title" = "Choisissez votre langue";
+"onboarding.translation.title" = "Choisissez une traduction";
+"onboarding.notifications.title" = "Encouragement quotidien";
+"onboarding.notifications.subtitle" = "Recevez un verset chaque jour, directement sur votre écran verrouillé. Modifiable à tout moment dans les réglages.";
+"onboarding.notifications.toggle" = "Activer les notifications du verset du jour";
+"onboarding.next" = "Suivant";
+"onboarding.get_started" = "Commencer";
+
+/* Lecture */
+"reading.choose_book" = "Choisir un livre et un chapitre";
+"reading.new_testament" = "Nouveau Testament";
+"reading.old_testament" = "Ancien Testament";
+
+/* Actions sur les versets */
+"verse.bookmark" = "Ajouter un signet";
+"verse.remove_bookmark" = "Retirer le signet";
+"verse.highlight" = "Surligner";
+"verse.remove_highlight" = "Retirer le surlignage";
+"verse.add_note" = "Ajouter une note";
+"verse.share" = "Partager";
+"verse.accessibility_prefix" = "Verset";
+
+/* Recherche */
+"search.prompt" = "Rechercher un verset";
+
+/* Notes */
+"note.title" = "Note";
+"notes.empty.title" = "Aucune note";
+"notes.empty.subtitle" = "Les notes que vous ajoutez aux versets apparaîtront ici.";
+
+/* Signets */
+"bookmarks.empty.title" = "Aucun signet";
+"bookmarks.empty.subtitle" = "Ajoutez un signet à un verset pendant la lecture pour le retrouver ici.";
+
+/* Historique */
+"history.empty.title" = "Aucun verset récent";
+"history.empty.subtitle" = "Les versets consultés apparaîtront ici.";
+
+/* Étude */
+"study.commentary" = "Commentaire";
+"study.commentary.empty" = "Aucun commentaire disponible pour ce passage.";
+"study.cross_references" = "Références croisées";
+"study.cross_references.empty" = "Aucune référence croisée disponible pour ce passage.";
+
+/* Journal de prière */
+"prayer.empty.title" = "Votre journal de prière est vide";
+"prayer.empty.subtitle" = "Appuyez sur + pour ajouter votre première prière.";
+"prayer.new" = "Nouvelle prière";
+"prayer.field.title" = "Titre";
+"prayer.field.category" = "Catégorie";
+"prayer.field.body" = "Qu'avez-vous sur le cœur ?";
+
+/* Plans de lecture */
+"plans.in_progress" = "En cours";
+"plans.available" = "Plans disponibles";
+"plans.start" = "Commencer le plan";
+"plans.days" = "jours";
+
+/* Réglages */
+"settings.language" = "Langue";
+"settings.appearance" = "Apparence";
+"settings.theme" = "Thème";
+"settings.theme.system" = "Système";
+"settings.theme.light" = "Clair";
+"settings.theme.dark" = "Sombre";
+"settings.font_size" = "Taille du texte";
+"settings.reading_background" = "Fond de lecture";
+"settings.notifications" = "Notifications";
+"settings.daily_verse" = "Verset du jour";
+"settings.notification_time" = "Heure";
+"settings.sync" = "Synchronisation";
+"settings.cloud_sync" = "Synchroniser entre appareils";
+"settings.cloud_sync.footnote" = "Facultatif. Vos signets, notes et réglages seront synchronisés en toute sécurité une fois activé.";
+"settings.version" = "Version";
+
+/* Notification du verset du jour */
+"daily_verse.notification.title" = "Verset du jour";
+
+/* Commun */
+"common.cancel" = "Annuler";
+"common.save" = "Enregistrer";

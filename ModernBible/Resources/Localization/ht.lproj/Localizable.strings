@@ -1,0 +1,98 @@
+/* Onglè yo */
+"tab.read" = "Li";
+"tab.search" = "Chèche";
+"tab.plans" = "Plan";
+"tab.prayer" = "Lapriyè";
+"tab.more" = "Plis";
+
+/* Meni Plis */
+"more.bookmarks" = "Siyè";
+"more.notes" = "Nòt";
+"more.history" = "Istorik";
+"more.study" = "Etid";
+"more.settings" = "Paramèt";
+
+/* Entwodiksyon */
+"onboarding.welcome.title" = "Byenveni nan ModernBible";
+"onboarding.welcome.subtitle" = "Yon espas kalm pou li, etidye, epi medite sou Ekriti Sen yo — san piblisite ditou.";
+"onboarding.language.title" = "Chwazi lang ou";
+"onboarding.translation.title" = "Chwazi yon tradiksyon";
+"onboarding.notifications.title" = "Ankourajman chak jou";
+"onboarding.notifications.subtitle" = "Resevwa yon vèsè chak jou, dirèkteman sou ekran vewouye telefòn ou. Ou ka chanje sa nenpòt lè nan Paramèt.";
+"onboarding.notifications.toggle" = "Aktive notifikasyon vèsè chak jou";
+"onboarding.next" = "Kontinye";
+"onboarding.get_started" = "Kòmanse";
+
+/* Lekti */
+"reading.choose_book" = "Chwazi Liv ak Chapit";
+"reading.new_testament" = "Nouvo Testaman";
+"reading.old_testament" = "Ansyen Testaman";
+
+/* Aksyon sou vèsè */
+"verse.bookmark" = "Mete Siyè";
+"verse.remove_bookmark" = "Retire Siyè";
+"verse.highlight" = "Kolore";
+"verse.remove_highlight" = "Retire Koulè";
+"verse.add_note" = "Ajoute Nòt";
+"verse.share" = "Pataje";
+"verse.accessibility_prefix" = "Vèsè";
+
+/* Rechèch */
+"search.prompt" = "Chèche yon vèsè";
+
+/* Nòt */
+"note.title" = "Nòt";
+"notes.empty.title" = "Pa gen nòt";
+"notes.empty.subtitle" = "Nòt ou ajoute sou vèsè yo ap parèt isit la.";
+
+/* Siyè */
+"bookmarks.empty.title" = "Pa gen siyè";
+"bookmarks.empty.subtitle" = "Mete siyè sou vèsè pandan w ap li pou konsève yo isit la.";
+
+/* Istorik */
+"history.empty.title" = "Pa gen vèsè resan";
+"history.empty.subtitle" = "Vèsè ou gade yo ap parèt isit la.";
+
+/* Etid */
+"study.commentary" = "Kòmantè";
+"study.commentary.empty" = "Pa gen kòmantè disponib pou pasaj sa a.";
+"study.cross_references" = "Referans Kwaze";
+"study.cross_references.empty" = "Pa gen referans kwaze disponib pou pasaj sa a.";
+
+/* Jounal Lapriyè */
+"prayer.empty.title" = "Jounal Lapriyè ou vid";
+"prayer.empty.subtitle" = "Peze + pou ajoute premye lapriyè ou.";
+"prayer.new" = "Nouvo Lapriyè";
+"prayer.field.title" = "Tit";
+"prayer.field.category" = "Kategori";
+"prayer.field.body" = "Kisa ki nan kè ou?";
+
+/* Plan Lekti */
+"plans.in_progress" = "K ap fèt";
+"plans.available" = "Plan Disponib";
+"plans.start" = "Kòmanse Plan";
+"plans.days" = "jou";
+
+/* Paramèt */
+"settings.language" = "Lang";
+"settings.appearance" = "Aparans";
+"settings.theme" = "Tèm";
+"settings.theme.system" = "Sistèm";
+"settings.theme.light" = "Klè";
+"settings.theme.dark" = "Fonse";
+"settings.font_size" = "Gwosè Tèks";
+"settings.reading_background" = "Fon Lekti";
+"settings.notifications" = "Notifikasyon";
+"settings.daily_verse" = "Vèsè Chak Jou";
+"settings.notification_time" = "Lè";
+"settings.sync" = "Sinkwonizasyon";
+"settings.cloud_sync" = "Sinkwonize ant aparèy";
+"settings.cloud_sync.footnote" = "Opsyonèl. Siyè, nòt ak paramèt ou yo ap sinkwonize an sekirite lè aktive.";
+"settings.version" = "Vèsyon";
+
+/* Notifikasyon Vèsè Chak Jou */
+"daily_verse.notification.title" = "Vèsè Jodi a";
+
+/* Komen */
+"common.cancel" = "Anile";
+"common.save" = "Anrejistre";

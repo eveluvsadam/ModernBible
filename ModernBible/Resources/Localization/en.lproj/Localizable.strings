@@ -1,0 +1,98 @@
+/* Tabs */
+"tab.read" = "Read";
+"tab.search" = "Search";
+"tab.plans" = "Plans";
+"tab.prayer" = "Prayer";
+"tab.more" = "More";
+
+/* More menu */
+"more.bookmarks" = "Bookmarks";
+"more.notes" = "Notes";
+"more.history" = "History";
+"more.study" = "Study";
+"more.settings" = "Settings";
+
+/* Onboarding */
+"onboarding.welcome.title" = "Welcome to ModernBible";
+"onboarding.welcome.subtitle" = "A calm, focused space to read, study, and reflect on Scripture — completely ad-free.";
+"onboarding.language.title" = "Choose your language";
+"onboarding.translation.title" = "Choose a translation";
+"onboarding.notifications.title" = "Daily encouragement";
+"onboarding.notifications.subtitle" = "Get a verse each day, right on your Lock Screen. You can change this anytime in Settings.";
+"onboarding.notifications.toggle" = "Enable daily verse notifications";
+"onboarding.next" = "Next";
+"onboarding.get_started" = "Get Started";
+
+/* Reading */
+"reading.choose_book" = "Choose Book & Chapter";
+"reading.new_testament" = "New Testament";
+"reading.old_testament" = "Old Testament";
+
+/* Verse actions */
+"verse.bookmark" = "Bookmark";
+"verse.remove_bookmark" = "Remove Bookmark";
+"verse.highlight" = "Highlight";
+"verse.remove_highlight" = "Remove Highlight";
+"verse.add_note" = "Add Note";
+"verse.share" = "Share";
+"verse.accessibility_prefix" = "Verse";
+
+/* Search */
+"search.prompt" = "Search verses";
+
+/* Notes */
+"note.title" = "Note";
+"notes.empty.title" = "No Notes Yet";
+"notes.empty.subtitle" = "Notes you add to verses will appear here.";
+
+/* Bookmarks */
+"bookmarks.empty.title" = "No Bookmarks Yet";
+"bookmarks.empty.subtitle" = "Bookmark verses while reading to save them here.";
+
+/* History */
+"history.empty.title" = "No Recent Verses";
+"history.empty.subtitle" = "Verses you view will appear here.";
+
+/* Study */
+"study.commentary" = "Commentary";
+"study.commentary.empty" = "No commentary available for this passage yet.";
+"study.cross_references" = "Cross References";
+"study.cross_references.empty" = "No cross references available for this passage yet.";
+
+/* Prayer Journal */
+"prayer.empty.title" = "Your Prayer Journal is Empty";
+"prayer.empty.subtitle" = "Tap + to add your first prayer.";
+"prayer.new" = "New Prayer";
+"prayer.field.title" = "Title";
+"prayer.field.category" = "Category";
+"prayer.field.body" = "What's on your heart?";
+
+/* Reading Plans */
+"plans.in_progress" = "In Progress";
+"plans.available" = "Available Plans";
+"plans.start" = "Start Plan";
+"plans.days" = "days";
+
+/* Settings */
+"settings.language" = "Language";
+"settings.appearance" = "Appearance";
+"settings.theme" = "Theme";
+"settings.theme.system" = "System";
+"settings.theme.light" = "Light";
+"settings.theme.dark" = "Dark";
+"settings.font_size" = "Font Size";
+"settings.reading_background" = "Reading Background";
+"settings.notifications" = "Notifications";
+"settings.daily_verse" = "Daily Verse";
+"settings.notification_time" = "Time";
+"settings.sync" = "Cloud Sync";
+"settings.cloud_sync" = "Sync Across Devices";
+"settings.cloud_sync.footnote" = "Optional. Your bookmarks, notes, and settings will sync securely when enabled.";
+"settings.version" = "Version";
+
+/* Daily Verse Notification */
+"daily_verse.notification.title" = "Verse of the Day";
+
+/* Common */
+"common.cancel" = "Cancel";
+"common.save" = "Save";

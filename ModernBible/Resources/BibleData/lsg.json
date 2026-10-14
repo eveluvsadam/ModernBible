@@ -1,0 +1,510 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "name": "Genèse",
+      "abbreviation": "Gen",
+      "testament": "OT",
+      "chapterCount": 50
+    },
+    {
+      "id": 2,
+      "name": "Exode",
+      "abbreviation": "Exo",
+      "testament": "OT",
+      "chapterCount": 40
+    },
+    {
+      "id": 3,
+      "name": "Lévitique",
+      "abbreviation": "Lev",
+      "testament": "OT",
+      "chapterCount": 27
+    },
+    {
+      "id": 4,
+      "name": "Nombres",
+      "abbreviation": "Num",
+      "testament": "OT",
+      "chapterCount": 36
+    },
+    {
+      "id": 5,
+      "name": "Deutéronome",
+      "abbreviation": "Deu",
+      "testament": "OT",
+      "chapterCount": 34
+    },
+    {
+      "id": 6,
+      "name": "Josué",
+      "abbreviation": "Jos",
+      "testament": "OT",
+      "chapterCount": 24
+    },
+    {
+      "id": 7,
+      "name": "Juges",
+      "abbreviation": "Jdg",
+      "testament": "OT",
+      "chapterCount": 21
+    },
+    {
+      "id": 8,
+      "name": "Ruth",
+      "abbreviation": "Rut",
+      "testament": "OT",
+      "chapterCount": 4
+    },
+    {
+      "id": 9,
+      "name": "1 Samuel",
+      "abbreviation": "1Sa",
+      "testament": "OT",
+      "chapterCount": 31
+    },
+    {
+      "id": 10,
+      "name": "2 Samuel",
+      "abbreviation": "2Sa",
+      "testament": "OT",
+      "chapterCount": 24
+    },
+    {
+      "id": 11,
+      "name": "1 Rois",
+      "abbreviation": "1Ki",
+      "testament": "OT",
+      "chapterCount": 22
+    },
+    {
+      "id": 12,
+      "name": "2 Rois",
+      "abbreviation": "2Ki",
+      "testament": "OT",
+      "chapterCount": 25
+    },
+    {
+      "id": 13,
+      "name": "1 Chroniques",
+      "abbreviation": "1Ch",
+      "testament": "OT",
+      "chapterCount": 29
+    },
+    {
+      "id": 14,
+      "name": "2 Chroniques",
+      "abbreviation": "2Ch",
+      "testament": "OT",
+      "chapterCount": 36
+    },
+    {
+      "id": 15,
+      "name": "Esdras",
+      "abbreviation": "Ezr",
+      "testament": "OT",
+      "chapterCount": 10
+    },
+    {
+      "id": 16,
+      "name": "Néhémie",
+      "abbreviation": "Neh",
+      "testament": "OT",
+      "chapterCount": 13
+    },
+    {
+      "id": 17,
+      "name": "Esther",
+      "abbreviation": "Est",
+      "testament": "OT",
+      "chapterCount": 10
+    },
+    {
+      "id": 18,
+      "name": "Job",
+      "abbreviation": "Job",
+      "testament": "OT",
+      "chapterCount": 42
+    },
+    {
+      "id": 19,
+      "name": "Psaumes",
+      "abbreviation": "Psa",
+      "testament": "OT",
+      "chapterCount": 150
+    },
+    {
+      "id": 20,
+      "name": "Proverbes",
+      "abbreviation": "Pro",
+      "testament": "OT",
+      "chapterCount": 31
+    },
+    {
+      "id": 21,
+      "name": "Ecclésiaste",
+      "abbreviation": "Ecc",
+      "testament": "OT",
+      "chapterCount": 12
+    },
+    {
+      "id": 22,
+      "name": "Cantique des cantiques",
+      "abbreviation": "Sng",
+      "testament": "OT",
+      "chapterCount": 8
+    },
+    {
+      "id": 23,
+      "name": "Ésaïe",
+      "abbreviation": "Isa",
+      "testament": "OT",
+      "chapterCount": 66
+    },
+    {
+      "id": 24,
+      "name": "Jérémie",
+      "abbreviation": "Jer",
+      "testament": "OT",
+      "chapterCount": 52
+    },
+    {
+      "id": 25,
+      "name": "Lamentations",
+      "abbreviation": "Lam",
+      "testament": "OT",
+      "chapterCount": 5
+    },
+    {
+      "id": 26,
+      "name": "Ézéchiel",
+      "abbreviation": "Eze",
+      "testament": "OT",
+      "chapterCount": 48
+    },
+    {
+      "id": 27,
+      "name": "Daniel",
+      "abbreviation": "Dan",
+      "testament": "OT",
+      "chapterCount": 12
+    },
+    {
+      "id": 28,
+      "name": "Osée",
+      "abbreviation": "Hos",
+      "testament": "OT",
+      "chapterCount": 14
+    },
+    {
+      "id": 29,
+      "name": "Joël",
+      "abbreviation": "Joe",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 30,
+      "name": "Amos",
+      "abbreviation": "Amo",
+      "testament": "OT",
+      "chapterCount": 9
+    },
+    {
+      "id": 31,
+      "name": "Abdias",
+      "abbreviation": "Oba",
+      "testament": "OT",
+      "chapterCount": 1
+    },
+    {
+      "id": 32,
+      "name": "Jonas",
+      "abbreviation": "Jon",
+      "testament": "OT",
+      "chapterCount": 4
+    },
+    {
+      "id": 33,
+      "name": "Michée",
+      "abbreviation": "Mic",
+      "testament": "OT",
+      "chapterCount": 7
+    },
+    {
+      "id": 34,
+      "name": "Nahum",
+      "abbreviation": "Nah",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 35,
+      "name": "Habacuc",
+      "abbreviation": "Hab",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 36,
+      "name": "Sophonie",
+      "abbreviation": "Zep",
+      "testament": "OT",
+      "chapterCount": 3
+    },
+    {
+      "id": 37,
+      "name": "Aggée",
+      "abbreviation": "Hag",
+      "testament": "OT",
+      "chapterCount": 2
+    },
+    {
+      "id": 38,
+      "name": "Zacharie",
+      "abbreviation": "Zec",
+      "testament": "OT",
+      "chapterCount": 14
+    },
+    {
+      "id": 39,
+      "name": "Malachie",
+      "abbreviation": "Mal",
+      "testament": "OT",
+      "chapterCount": 4
+    },
+    {
+      "id": 40,
+      "name": "Matthieu",
+      "abbreviation": "Mat",
+      "testament": "NT",
+      "chapterCount": 28
+    },
+    {
+      "id": 41,
+      "name": "Marc",
+      "abbreviation": "Mrk",
+      "testament": "NT",
+      "chapterCount": 16
+    },
+    {
+      "id": 42,
+      "name": "Luc",
+      "abbreviation": "Luk",
+      "testament": "NT",
+      "chapterCount": 24
+    },
+    {
+      "id": 43,
+      "name": "Jean",
+      "abbreviation": "Jhn",
+      "testament": "NT",
+      "chapterCount": 21
+    },
+    {
+      "id": 44,
+      "name": "Actes",
+      "abbreviation": "Act",
+      "testament": "NT",
+      "chapterCount": 28
+    },
+    {
+      "id": 45,
+      "name": "Romains",
+      "abbreviation": "Rom",
+      "testament": "NT",
+      "chapterCount": 16
+    },
+    {
+      "id": 46,
+      "name": "1 Corinthiens",
+      "abbreviation": "1Co",
+      "testament": "NT",
+      "chapterCount": 16
+    },
+    {
+      "id": 47,
+      "name": "2 Corinthiens",
+      "abbreviation": "2Co",
+      "testament": "NT",
+      "chapterCount": 13
+    },
+    {
+      "id": 48,
+      "name": "Galates",
+      "abbreviation": "Gal",
+      "testament": "NT",
+      "chapterCount": 6
+    },
+    {
+      "id": 49,
+      "name": "Éphésiens",
+      "abbreviation": "Eph",
+      "testament": "NT",
+      "chapterCount": 6
+    },
+    {
+      "id": 50,
+      "name": "Philippiens",
+      "abbreviation": "Php",
+      "testament": "NT",
+      "chapterCount": 4
+    },
+    {
+      "id": 51,
+      "name": "Colossiens",
+      "abbreviation": "Col",
+      "testament": "NT",
+      "chapterCount": 4
+    },
+    {
+      "id": 52,
+      "name": "1 Thessaloniciens",
+      "abbreviation": "1Th",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 53,
+      "name": "2 Thessaloniciens",
+      "abbreviation": "2Th",
+      "testament": "NT",
+      "chapterCount": 3
+    },
+    {
+      "id": 54,
+      "name": "1 Timothée",
+      "abbreviation": "1Ti",
+      "testament": "NT",
+      "chapterCount": 6
+    },
+    {
+      "id": 55,
+      "name": "2 Timothée",
+      "abbreviation": "2Ti",
+      "testament": "NT",
+      "chapterCount": 4
+    },
+    {
+      "id": 56,
+      "name": "Tite",
+      "abbreviation": "Tit",
+      "testament": "NT",
+      "chapterCount": 3
+    },
+    {
+      "id": 57,
+      "name": "Philémon",
+      "abbreviation": "Phm",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 58,
+      "name": "Hébreux",
+      "abbreviation": "Heb",
+      "testament": "NT",
+      "chapterCount": 13
+    },
+    {
+      "id": 59,
+      "name": "Jacques",
+      "abbreviation": "Jas",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 60,
+      "name": "1 Pierre",
+      "abbreviation": "1Pe",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 61,
+      "name": "2 Pierre",
+      "abbreviation": "2Pe",
+      "testament": "NT",
+      "chapterCount": 3
+    },
+    {
+      "id": 62,
+      "name": "1 Jean",
+      "abbreviation": "1Jn",
+      "testament": "NT",
+      "chapterCount": 5
+    },
+    {
+      "id": 63,
+      "name": "2 Jean",
+      "abbreviation": "2Jn",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 64,
+      "name": "3 Jean",
+      "abbreviation": "3Jn",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 65,
+      "name": "Jude",
+      "abbreviation": "Jud",
+      "testament": "NT",
+      "chapterCount": 1
+    },
+    {
+      "id": 66,
+      "name": "Apocalypse",
+      "abbreviation": "Rev",
+      "testament": "NT",
+      "chapterCount": 22
+    }
+  ],
+  "verses": [
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 1,
+      "text": "Au commencement, Dieu créa les cieux et la terre."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 2,
+      "text": "La terre était informe et vide: il y avait des ténèbres à la surface de l'abîme, et l'esprit de Dieu se mouvait au-dessus des eaux."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 3,
+      "text": "Dieu dit: Que la lumière soit! Et la lumière fut."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 4,
+      "text": "Dieu vit que la lumière était bonne; et Dieu sépara la lumière d'avec les ténèbres."
+    },
+    {
+      "bookId": 1,
+      "chapter": 1,
+      "verse": 5,
+      "text": "Dieu appela la lumière jour, et il appela les ténèbres nuit. Ainsi, il y eut un soir, et il y eut un matin: ce fut le premier jour."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 16,
+      "text": "Car Dieu a tant aimé le monde qu'il a donné son Fils unique, afin que quiconque croit en lui ne périsse point, mais qu'il ait la vie éternelle."
+    },
+    {
+      "bookId": 43,
+      "chapter": 3,
+      "verse": 17,
+      "text": "Dieu, en effet, n'a pas envoyé son Fils dans le monde pour qu'il juge le monde, mais pour que le monde soit sauvé par lui."
+    }
+  ]
+}
